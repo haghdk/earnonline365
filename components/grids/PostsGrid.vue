@@ -7,7 +7,7 @@
     <template v-slot:default="{ item }">
       <post-card
         :title="item.title"
-        :link="`/${item.slug}`"
+        :link="`/blog/${item.slug}`"
         :image="item.featureImage"
         :author="item.author"
         :date="item.date"

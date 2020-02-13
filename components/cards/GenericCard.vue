@@ -105,10 +105,4 @@ export default {
 .opti-image-loaded + .spinner-wrapper {
   display: none;
 }
-.card img {
-  transition: 0.8s ease-in-out all;
-  &:hover {
-    transform: scale(1.02);
-  }
-}
 </style>

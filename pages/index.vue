@@ -11,7 +11,9 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
-        <posts-grid />
+        <div class="column is-8 is-offset-2">
+          <posts-grid per-row="1" />
+        </div>
       </template>
       <template v-slot:sidebar>
         Nothing here

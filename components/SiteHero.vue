@@ -8,13 +8,6 @@
     />
     <div class="hero-body">
       <div class="container">
-        <h1 class="title animated fadeInUp">
-          {{ title }}
-        </h1>
-        <h2 class="subtitle animated fadeInUp slower">
-          {{ subtitle }}
-        </h2>
-        <br />
         <div
           v-if="$slots.default"
           class="under-subtitle animated fadeInDown slower"

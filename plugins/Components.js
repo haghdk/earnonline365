@@ -8,6 +8,7 @@ import NewsLetterSlideOut from '../components/NewsLetterSlideOut'
 import PostsGrid from '../components/grids/PostsGrid'
 import SiteFooter from '../components/SiteFooter'
 import SiteHero from '../components/SiteHero'
+import BlogImage from '../components/BlogImage'
 import SiteLogo from '../components/SiteLogo'
 import SiteNav from '../components/SiteNav'
 import ResourceGrid from '~/components/grids/ResourceGrid'
@@ -21,6 +22,7 @@ Vue.component(NewsLetterSlideOut.name, NewsLetterSlideOut)
 Vue.component(PostsGrid.name, PostsGrid)
 Vue.component(SiteFooter.name, SiteFooter)
 Vue.component(SiteHero.name, SiteHero)
+Vue.component(BlogImage.name, BlogImage)
 Vue.component(SiteLogo.name, SiteLogo)
 Vue.component(SiteNav.name, SiteNav)
 Vue.component(ResourceGrid.name, ResourceGrid)

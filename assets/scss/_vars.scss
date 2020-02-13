@@ -1,11 +1,17 @@
 // Import Bulma's core
 @import "~bulma/sass/utilities/_all";
+@import "fonts";
 
 // Set your colors
-$primary: #00d1b2;
+$primary: #4d4d4d;
 $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
+
+$body-family: 'Lato', sans-serif;
+$family-serif: "Lato", "Georgia", serif;
+
+$box-shadow: 0 0.5em 1em -0.125em rgba($scheme-invert, 0.1), 0 0px 0 1px rgba($scheme-invert, 0.02)
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (

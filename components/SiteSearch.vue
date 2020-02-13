@@ -26,7 +26,7 @@
             :key="match.slug"
             @click="toggleSearchBar()"
           >
-            <nuxt-link :to="`/${match.slug}`">
+            <nuxt-link :to="`/blog/${match.slug}`">
               {{ match.title }}
             </nuxt-link>
             <small class="match-snippet" v-html="match.snippet"></small>
