@@ -12,7 +12,7 @@
       <template v-slot:default>
         <!-- All Posts -->
         <div class="column is-8 is-offset-2">
-          <posts-grid per-row="1" />
+          <posts-grid :per-row="1" />
         </div>
       </template>
       <template v-slot:sidebar>
