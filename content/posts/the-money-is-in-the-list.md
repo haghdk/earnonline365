@@ -5,7 +5,7 @@ category:
   - Affiliate
 author: Morten Jensen
 date: 2020-02-16T10:58:13.911Z
-featureImage: uploads/the-money-is-in-the-list.jpg
+featureImage: /uploads/the-money-is-in-the-list.jpg
 teaser: >-
   Building an email list is the single most important thing when starting on
   affiliate marketing
