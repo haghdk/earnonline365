@@ -1,8 +1,12 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="https://picsum.photos/1800/1801" />
     <main-section theme="one-column">
-      <categories-grid />
+      <div class="column is-10 is-offset-1">
+        <h1 class="title">
+          Categories
+        </h1>
+        <categories-grid />
+      </div>
     </main-section>
   </div>
 </template>
