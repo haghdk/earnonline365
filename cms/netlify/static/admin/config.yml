@@ -22,6 +22,8 @@ collections:
       - {label: "Featured Image", name: "featureImage", widget: "image"}
       - {label: "Teaser", name: "teaser", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Meta Description", name: "metadescription", widget: "string"}
+      - {label: "Meta OG Image", name: "metaogimage", widget: "image"}
   - name: "categories"
     label: "Categories"
     folder: "content/categories"

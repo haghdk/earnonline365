@@ -4,7 +4,9 @@
       <main-section theme="sidebar-right">
         <template v-slot:default>
           <!-- Posts in Category -->
-          <h1 class="title">{{ $store.state.name }}</h1>
+          <h1 class="title">
+            {{ $store.state.name }}
+          </h1>
 
           <posts-grid :category="[$store.state.name]" :per-row="2" />
         </template>
