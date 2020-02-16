@@ -64,6 +64,25 @@ export default {
   components: {
     Markdown
   },
+  head() {
+    return {
+      title: `${this.$store.state.title} | ${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `${this.$store.state.title} | ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content:
+            'https://www.makemoneyonlineninja.com' +
+            this.$store.state.featureImage
+        }
+      ]
+    }
+  },
   computed: {
     ...mapState([
       'title',

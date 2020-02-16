@@ -34,11 +34,11 @@ export default {
           property: 'og:title',
           content: this.$store.state.title
         },
-        {
-          hid: 'og:image',
-          property: 'og:image',
-          content: this.$store.state.featureImage
-        },
+        // {
+        //   hid: 'og:image',
+        //   property: 'og:image',
+        //   content: this.$store.state.featureImage
+        // },
         {
           hid: 'og:url',
           property: 'og:url',
