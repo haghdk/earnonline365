@@ -17,7 +17,7 @@ More than 99% of users will not buy your offers immediately and if they only cli
 \
 But if you got them to sign up to your mailing list you can warm them up with follow-up emails introducing them to more details about your offer. You can also send them other offers, if the first one you send them are of no interest.
 
-### So how do I build an email list
+### So how do I build an email list?
 
 There are many tools you can use to build an email list. The best one in my opinion is GetResponse. It's more than just an email list builder. You will have an autoresponder that enables you to send emails automatically at specified days after users sign up. \
 You can create awesome landing pages where you can tell users about your offer and get them to sign up to that important mailing list. \
