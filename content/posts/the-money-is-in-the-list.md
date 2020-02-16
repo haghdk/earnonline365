@@ -2,7 +2,7 @@
 title: The Money is in the list
 subtitle: The most important thing in affiliate marketing
 category:
-  - Affiliate
+  - Affiliate marketing
 author: Morten Jensen
 date: 2020-02-16T10:58:13.911Z
 featureImage: /uploads/the-money-is-in-the-list.jpg
