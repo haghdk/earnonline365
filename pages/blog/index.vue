@@ -7,7 +7,9 @@
         </h1>
 
         <!-- All Posts -->
-        <posts-grid />
+        <div class="column is-10 is-offset-1">
+          <posts-grid :per-row="2" />
+        </div>
       </template>
       <template v-slot:sidebar>
         Nothing here

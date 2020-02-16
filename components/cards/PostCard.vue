@@ -1,23 +1,18 @@
 <template>
   <generic-card
     :title="title"
+    :subtitle="subtitle"
     :image="image"
     :link="link"
+    :teaser="teaser"
+    :date="datePretty"
+    :author="author"
     :image-dimensions="
       $siteConfig.posts.imageDimensions ||
         $siteConfig.cards.imageDimensions ||
         null
     "
   >
-    <div class="published-wrapper">
-      <time v-if="date">{{ datePretty }}</time>
-      <span
-        v-if="author && $siteConfig.posts.displayAuthor"
-        class="author-wrapper"
-      >
-        by {{ author }}
-      </span>
-    </div>
   </generic-card>
 </template>
 
@@ -28,6 +23,14 @@ export default {
   components: { GenericCard },
   props: {
     title: {
+      type: String,
+      default: ''
+    },
+    subtitle: {
+      type: String,
+      default: ''
+    },
+    teaser: {
       type: String,
       default: ''
     },
@@ -55,3 +58,10 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.teaser {
+  color: #363636;
+  display: block;
+}
+</style>

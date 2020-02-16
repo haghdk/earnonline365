@@ -1,8 +1,8 @@
 {
-  "name": "nuxtlify",
+  "name": "makemoneyonlineninja.com",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "description": "A blog about making money online",
+  "author": "Morten Jensen",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
@@ -44,7 +44,8 @@
     "showdown": "^1.9.0",
     "url-parse": "^1.4.7",
     "v-runtime-template": "^1.10.0",
-    "vue-disqus": "^3.0.5"
+    "vue-disqus": "^3.0.5",
+    "vue-social-sharing": "^2.4.7"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",

@@ -9,13 +9,13 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'EarnOnline365',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'MakeMoneyOnline Ninja',
+  tagline: 'How to make money online',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: 'UA-44422503-17'
   },
   mainMenu: [
     {
@@ -51,7 +51,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'makemoneyonline-ninja' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
@@ -62,14 +62,13 @@ export default {
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
-      on: true,
+      on: false,
       formAction:
         'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
     getresponse: {
       on: true,
-      formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+      formAction: 'https://app.getresponse.com/add_subscriber.html'
     },
     custom: {
       on: false,

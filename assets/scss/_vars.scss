@@ -8,8 +8,8 @@ $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 
-$body-family: 'Lato', sans-serif;
-$family-serif: "Lato", "Georgia", serif;
+$body-family: 'Noto Serif', sans-serif;
+$family-serif: "Noto Serif", "Georgia", serif;
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (

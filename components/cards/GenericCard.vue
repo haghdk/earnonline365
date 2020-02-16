@@ -29,7 +29,7 @@
             >
               {{ title }}
             </h3>
-            <h4
+            <!-- <h4
               :class="{
                 subtitle: true,
                 'is-6': true,
@@ -37,10 +37,28 @@
               }"
             >
               <slot></slot>
-            </h4>
+            </h4> -->
           </nuxt-link>
         </div>
       </div>
+
+      <div class="published-wrapper">
+        <time v-if="date">{{ date }}</time>
+        <span
+          v-if="author && $siteConfig.posts.displayAuthor"
+          class="author-wrapper"
+        >
+          by {{ author }}
+        </span>
+      </div>
+
+      <div class="teaser size-3">
+        {{ teaser }}
+      </div>
+
+      <nuxt-link :to="link" class="read-more">
+        Read more
+      </nuxt-link>
     </div>
   </div>
 </template>
@@ -49,8 +67,11 @@ const imageDimensionDefault = '16x9'
 export default {
   props: {
     title: { type: String, default: '' },
+    teaser: { type: String, default: '' },
     image: { type: String, default: '' },
     link: { type: String, default: '' },
+    date: { type: String, default: '' },
+    author: { type: String, default: '' },
     imageDimensions: { type: String, default: imageDimensionDefault }
   },
   computed: {
@@ -99,6 +120,16 @@ export default {
   &.subtitle {
     width: 70%;
   }
+}
+
+.card {
+  .media:not(:last-child) {
+    margin-bottom: 0.15rem !important;
+  }
+}
+
+.read-more {
+  font-weight: bold;
 }
 </style>
 <style lang="scss">

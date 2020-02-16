@@ -2,6 +2,7 @@ import { isString } from 'lodash'
 export const state = () => ({
   pageType: '',
   title: '',
+  teaser: '',
   subtitle: '',
   featureImage: '',
   content: '',

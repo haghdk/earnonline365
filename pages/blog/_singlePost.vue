@@ -5,6 +5,25 @@
         <div class="card padded">
           <blog-image :image="featureImage"></blog-image>
 
+          <social-sharing
+            :url="'http://www.tv2.dk/' + slug"
+            :title="title"
+            :description="teaser"
+            inline-template
+          >
+            <div class="social-sharing">
+              <network network="facebook">
+                <i class="facebook"></i>
+              </network>
+              <network network="twitter">
+                <i class="twitter"></i>
+              </network>
+              <network network="pinterest">
+                <i class="pinterest"></i>
+              </network>
+            </div>
+          </social-sharing>
+
           <div class="post-wrapper">
             <h1 class="title">
               {{ title }}
@@ -48,6 +67,7 @@ export default {
   computed: {
     ...mapState([
       'title',
+      'teaser',
       'subtitle',
       'featureImage',
       'underSubtitle',
@@ -74,16 +94,6 @@ export default {
 
 .title {
   margin-bottom: 0.25rem;
-}
-
-.published-wrapper {
-  margin-top: 1rem;
-  margin-bottom: 2.5rem;
-  font-size: 0.85rem;
-
-  time {
-    display: block;
-  }
 }
 
 .other-posts {

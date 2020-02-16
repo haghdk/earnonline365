@@ -3,7 +3,7 @@
     <form
       target="_blank"
       method="post"
-      :action="formAction"
+      action="https://app.getresponse.com/add_subscriber.html"
       @submit="$emit('submit', email)"
     >
       <div class="field has-addons is-fullwidth">
@@ -12,7 +12,7 @@
             v-model="email"
             class="input"
             type="email"
-            name="EMAIL"
+            name="email"
             placeholder="Email"
           />
           <span class="icon is-small is-left">
@@ -20,6 +20,7 @@
             <i class="fas fa-envelope"></i>
           </span>
         </p>
+        <input type="hidden" name="campaign_token" value="8vjW7" />
         <div class="control">
           <button type="submit" class="button is-primary">
             {{ $siteConfig.newsletter.btnText || 'Subscribe' }}

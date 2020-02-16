@@ -1,18 +1,16 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <button
-        class="button is-primary"
-        @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
-      >
-        Subscribe To Newsletter
-      </button>
-    </site-hero>
+    <!-- <button
+      class="button is-primary"
+      @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
+    >
+      Subscribe To Newsletter
+    </button> -->
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
-        <div class="column is-8 is-offset-2">
-          <posts-grid :per-row="1" />
+        <div class="column is-10 is-offset-1">
+          <posts-grid :per-row="2" />
         </div>
       </template>
       <template v-slot:sidebar>

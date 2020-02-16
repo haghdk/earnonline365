@@ -1,6 +1,6 @@
 <template>
   <div class="logo-wrapper">
-    <span>EarnOnline365</span>
+    <span>MakeMoneyOnline Ninja</span>
   </div>
 </template>
 <script>
@@ -31,19 +31,17 @@ export default {
   position: relative;
   height: 50px;
   overflow: hidden;
-  width: 200px;
-  .logo-inner {
-    position: absolute;
-    height: 500px;
-    img {
-      display: block;
-      height: 40px;
-      margin: 5px;
-      max-height: initial;
-    }
-    &.blink {
-      animation: logoBlink 0.2s steps(8, end) alternate;
-    }
+  width: 250px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+
+  span {
+    display: block;
+    background-image: url('~@/static/ninja.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 30px;
   }
 }
 </style>
