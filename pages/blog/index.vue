@@ -2,12 +2,12 @@
   <div id="blog" class="page-wrapper blog">
     <main-section theme="one-column">
       <template v-slot:default>
-        <h1 class="title">
-          Blog
-        </h1>
-
-        <!-- All Posts -->
         <div class="column is-10 is-offset-1">
+          <h1 class="title">
+            Blog
+          </h1>
+
+          <!-- All Posts -->
           <posts-grid :per-row="2" />
         </div>
       </template>

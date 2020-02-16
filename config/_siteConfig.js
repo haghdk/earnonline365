@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'MakeMoneyOnline Ninja',
   tagline: 'How to make money online',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/make-money-online.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
