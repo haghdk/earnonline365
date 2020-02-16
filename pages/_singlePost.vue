@@ -6,7 +6,7 @@
           <blog-image :image="featureImage"></blog-image>
 
           <social-sharing
-            :url="'http://www.tv2.dk/' + slug"
+            :url="'https://www.makemoneyonlineninja.com/' + slug"
             :title="title"
             :description="teaser"
             inline-template

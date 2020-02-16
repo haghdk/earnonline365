@@ -124,7 +124,7 @@ export default {
 
 .card {
   .media:not(:last-child) {
-    margin-bottom: 0.15rem !important;
+    margin-bottom: 0.25rem !important;
   }
 }
 
