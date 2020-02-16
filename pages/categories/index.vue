@@ -14,7 +14,24 @@
 export default {
   head() {
     return {
-      title: `Categories | ${this.$siteConfig.siteName}`
+      title: `Categories | ${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `Categories | ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Browse all the make money online categories'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content: 'Browse all the make money online categories'
+        }
+      ]
     }
   }
 }
