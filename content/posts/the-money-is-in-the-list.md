@@ -5,7 +5,7 @@ category:
   - Affiliate
 author: Morten Jensen
 date: 2020-02-16T10:58:13.911Z
-featureImage: uploads/ninja.png
+featureImage: uploads/make-money-online.jpg
 teaser: >-
   Building an email list is the single most important thing when starting on
   affiliate marketing
@@ -25,7 +25,4 @@ You will get an automation tool that works like an autoresponder but you can set
 
 The best part is that you will get a 30-day FREE trial.
 
-![]()
-
-\
 You can create your account GetResponse [HERE](https://www.getresponse.com/?a=pEkMFNHHwP)
