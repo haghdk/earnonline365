@@ -76,7 +76,4 @@ export default {
 .navbar-menu a {
   display: block;
 }
-
-.navbar-item {
-}
 </style>
