@@ -1,6 +1,6 @@
 ---
-name: Affiliate
-image: /uploads/make-money-online.jpg
+name: Affiliate marketing
+image: uploads/affiliate-marketing.jpg
 description: Affiliate marketing
 ---
 
