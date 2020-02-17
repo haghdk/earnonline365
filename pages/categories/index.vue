@@ -19,17 +19,19 @@ export default {
         {
           hid: 'og:title',
           name: 'og:title',
-          content: `Categories | ${this.$siteConfig.siteName}`
+          content: `Categories ← ${this.$siteConfig.siteName}`
         },
         {
           hid: 'description',
           name: 'description',
-          content: 'Browse all the make money online categories'
+          content:
+            'Check all our posts about making money online and affiliate marketing in these categories'
         },
         {
           hid: 'og:description',
           name: 'og:description',
-          content: 'Browse all the make money online categories'
+          content:
+            'Check all our posts about making money online and affiliate marketing in these categories'
         }
       ]
     }

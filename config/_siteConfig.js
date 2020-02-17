@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'MakeMoneyOnline Ninja',
-  tagline: 'How to make money online',
+  tagline: 'How to make money on affiliate marketing',
   featureImage: 'uploads/make-money-online.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -83,7 +83,7 @@ export default {
   // Categories
   categories: {
     on: true,
-    perPage: 6,
+    perPage: 12,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
   },
@@ -98,7 +98,7 @@ export default {
       display: true
     },
     perRow: 3,
-    perPage: 6
+    perPage: 12
   }
 }
 
