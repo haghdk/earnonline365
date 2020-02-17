@@ -21,6 +21,10 @@ if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
   modules.push('@nuxtjs/google-analytics')
 }
 
+if (siteConfig.gtm.on && siteConfig.gtm.id) {
+  modules.push('@nuxtjs/gtm')
+}
+
 export const modulesSettings = {
   fontawesome: {
     imports: [
@@ -50,5 +54,8 @@ export const modulesSettings = {
   },
   googleAnalytics: {
     id: siteConfig.googleAnalytics.id
+  },
+  gtm: {
+    id: siteConfig.gtm.id
   }
 }

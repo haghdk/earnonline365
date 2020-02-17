@@ -14,8 +14,12 @@ export default {
   featureImage: 'uploads/make-money-online.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: true,
+    on: false,
     id: 'UA-44422503-17'
+  },
+  gtm: {
+    on: true,
+    id: 'GTM-W3ZB5Q3'
   },
   mainMenu: [
     {
