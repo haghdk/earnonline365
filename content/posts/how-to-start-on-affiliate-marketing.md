@@ -3,6 +3,7 @@ title: How to start on affiliate marketing?
 subtitle: The road the passive income
 category:
   - Affiliate marketing
+  - Clickbank
 author: Morten Jensen
 date: 2020-02-17T12:57:12.820Z
 featureImage: /uploads/clickbank.jpg
