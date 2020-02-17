@@ -1,6 +1,6 @@
 ---
 title: How to start on affiliate marketing?
-subtitle: The road the passive income
+subtitle: The road to passive income
 category:
   - Affiliate marketing
   - Clickbank
