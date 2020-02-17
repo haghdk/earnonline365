@@ -42,12 +42,12 @@ export default {
   },
   head() {
     return {
-      title: `${this.$store.state.title} ← ${this.$siteConfig.siteName}`,
+      title: `${this.$store.state.name} ← ${this.$siteConfig.siteName}`,
       meta: [
         {
           hid: 'og:title',
           name: 'og:title',
-          content: `${this.$store.state.title} ← ${this.$siteConfig.siteName}`
+          content: `${this.$store.state.name} ← ${this.$siteConfig.siteName}`
         },
         {
           hid: 'description',
