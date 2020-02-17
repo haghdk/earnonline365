@@ -7,7 +7,8 @@ export const state = () => ({
   featureImage: '',
   content: '',
   author: '',
-  date: ''
+  date: '',
+  metadescription: ''
 })
 export const mutations = {
   set(state, data) {
@@ -36,6 +37,7 @@ function setOtherPageData(commit, siteConfig) {
   commit('set', {
     title: siteConfig.siteName,
     subtitle: siteConfig.tagline,
+    metadescription: siteConfig.metadescription,
     featureImage: siteConfig.featureImage
   })
 }

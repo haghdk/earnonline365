@@ -74,6 +74,16 @@ export default {
           content: `${this.$store.state.title} | ${this.$siteConfig.siteName}`
         },
         {
+          hid: 'description',
+          name: 'description',
+          content: `${this.$store.state.metadescription} | ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content: `${this.$store.state.metadescription} | ${this.$siteConfig.siteName}`
+        },
+        {
           hid: 'og:image',
           property: 'og:image',
           content:
