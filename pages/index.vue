@@ -30,12 +30,12 @@ export default {
   name: 'HomePage',
   head() {
     return {
-      title: `${this.$siteConfig.siteName}`,
+      title: `Start making money online ← ${this.$siteConfig.siteName}`,
       meta: [
         {
           hid: 'og:title',
           name: 'og:title',
-          content: `${this.$siteConfig.siteName}`
+          content: `Start making money online ← ${this.$siteConfig.siteName}`
         },
         {
           hid: 'description',
