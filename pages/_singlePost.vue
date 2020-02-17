@@ -68,7 +68,12 @@ export default {
     return {
       '@context': 'http://schema.org',
       '@type': 'BlogPosting',
+      mainEntityOfPage: {
+        '@type': 'WebPage',
+        '@id': 'https://www.makemoneyonlineninja.com/'
+      },
       url: `https://www.makemoneyonlineninja.com/'${this.$store.state.slug}`,
+      image: `${this.$store.state.featureImage}`,
       headline: `${this.$store.state.title}`,
       alternativeHeadline: `${this.$store.state.subtitle}`,
       dateCreated: `${this.$store.state.date}`,
@@ -80,6 +85,10 @@ export default {
         name: 'Morten Jensen'
       },
       creator: {
+        '@type': 'Person',
+        name: 'Morten Jensen'
+      },
+      publisher: {
         '@type': 'Person',
         name: 'Morten Jensen'
       }
