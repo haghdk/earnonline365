@@ -4,5 +4,6 @@ export default [
   '~/plugins/Disqus',
   '~/plugins/EventBus',
   '~/plugins/Components',
-  '~/plugins/SocialSharing'
+  '~/plugins/SocialSharing',
+  '~/plugins/JsonLD'
 ]

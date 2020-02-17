@@ -3,7 +3,7 @@
     <main-section :one-column-constrained="true">
       <template v-slot:default>
         <div class="card padded">
-          <blog-image :image="featureImage"></blog-image>
+          <blog-image :image="featureImage" :alt="title"></blog-image>
 
           <social-sharing
             :url="'https://www.makemoneyonlineninja.com/' + slug"
@@ -63,6 +63,27 @@ import Markdown from '~/components/Markdown'
 export default {
   components: {
     Markdown
+  },
+  jsonld() {
+    return {
+      '@context': 'http://schema.org',
+      '@type': 'BlogPosting',
+      url: `https://www.makemoneyonlineninja.com/'${this.$store.state.slug}`,
+      headline: `${this.$store.state.title}`,
+      alternativeHeadline: `${this.$store.state.subtitle}`,
+      dateCreated: `${this.$store.state.date}`,
+      datePublished: `${this.$store.state.date}`,
+      dateModified: `${this.$store.state.date}`,
+      articleBody: `${this.$store.state.content}`,
+      author: {
+        '@type': 'Person',
+        name: 'Morten Jensen'
+      },
+      creator: {
+        '@type': 'Person',
+        name: 'Morten Jensen'
+      }
+    }
   },
   head() {
     return {

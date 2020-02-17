@@ -5,6 +5,7 @@
       :src="responsiveImage.src"
       :lazy="false"
       :srcset="responsiveImage.srcSet"
+      :alt="title"
     />
   </picture>
 </template>
@@ -12,7 +13,8 @@
 export default {
   name: 'BlogImage',
   props: {
-    image: { type: String, default: '' }
+    image: { type: String, default: '' },
+    title: { type: String, default: '' }
   },
   computed: {
     responsiveImage() {
