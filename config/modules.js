@@ -14,6 +14,7 @@ export const modules = [
   '@nuxtjs/axios',
   '@nuxtjs/eslint-module',
   '@nuxtjs/style-resources',
+  '@nuxtjs/sitemap',
   'nuxt-fontawesome',
   'nuxt-responsive-loader'
 ]

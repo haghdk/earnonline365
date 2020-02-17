@@ -35,6 +35,20 @@ export default {
   modules: modules,
   ...modulesSettings,
   /*
+   ** sitemap configuration
+   */
+  sitemap: {
+    hostname: 'https://www.makemoneyonlineninja.com',
+    gzip: true,
+    exclude: ['/thankyou', '/blog', '/admin/**'],
+    defaults: {
+      changefreq: 'daily',
+      priority: 1,
+      lastmod: new Date(),
+      lastmodrealtime: true
+    }
+  },
+  /*
    ** Build configuration
    */
   build: build
