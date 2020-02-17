@@ -1,6 +1,7 @@
 import { isString } from 'lodash'
 export const state = () => ({
   pageType: '',
+  name: '',
   title: '',
   teaser: '',
   subtitle: '',
@@ -35,6 +36,7 @@ export const actions = {
 
 function setOtherPageData(commit, siteConfig) {
   commit('set', {
+    name: siteConfig.name,
     title: siteConfig.siteName,
     subtitle: siteConfig.tagline,
     metadescription: siteConfig.metadescription,
