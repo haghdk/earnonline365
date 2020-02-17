@@ -72,8 +72,8 @@ export default {
         '@type': 'WebPage',
         '@id': 'https://www.makemoneyonlineninja.com/'
       },
-      url: `https://www.makemoneyonlineninja.com/'${this.$store.state.slug}`,
-      image: `https://www.makemoneyonlineninja.com/'${this.$store.state.featureImage}`,
+      url: `https://www.makemoneyonlineninja.com/${this.$store.state.slug}`,
+      image: `https://www.makemoneyonlineninja.com/${this.$store.state.featureImage}`,
       headline: `${this.$store.state.title}`,
       alternativeHeadline: `${this.$store.state.subtitle}`,
       dateCreated: `${this.$store.state.date}`,
