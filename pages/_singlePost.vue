@@ -90,7 +90,11 @@ export default {
       },
       publisher: {
         '@type': 'Organization',
-        name: 'makemoneyonlineninja'
+        name: 'makemoneyonlineninja',
+        logo: {
+          '@type': 'ImageObject',
+          url: 'https://www.makemoneyonlineninja.com/favicons/favicon-96x96.png'
+        }
       }
     }
   },
