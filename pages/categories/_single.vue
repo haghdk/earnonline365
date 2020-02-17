@@ -40,6 +40,28 @@ export default {
       allCats: []
     }
   },
+  head() {
+    return {
+      title: `${this.$store.state.title} ← ${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `${this.$store.state.title} ← ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content: `${this.$store.state.metadescription}`
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content: `${this.$store.state.metadescription}`
+        }
+      ]
+    }
+  },
   fetch({ store, params }) {
     setPageData(store, { resource: 'category', slug: params.single })
   },

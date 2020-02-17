@@ -30,7 +30,24 @@ export default {
   name: 'HomePage',
   head() {
     return {
-      title: `Home | ${this.$siteConfig.siteName}`
+      title: `${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content: `A blog about making money online with affiliate marketing. Learn how to get started`
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content: `A blog about making money online with affiliate marketing. Learn how to get started`
+        }
+      ]
     }
   },
   components: {
