@@ -50,42 +50,7 @@ dt {
 }
 
 body {
-  background-color: rgb(249, 250, 252);
-}
-
-.social-sharing {
-  display: flex;
-  margin-bottom: 1.25rem;
-
-  span {
-    display: block;
-    margin: 0 0.5rem 0 0;
-    cursor: pointer;
-    outline: none;
-  }
-
-  i {
-    display: block;
-    width: 25px;
-    height: 25px;
-    background-size: contain;
-  }
-
-  .facebook {
-    background-image: url('~@/static/social-icons/facebook.svg');
-  }
-
-  .twitter {
-    background-image: url('~@/static/social-icons/twitter.svg');
-  }
-
-  .pinterest {
-    background-image: url('~@/static/social-icons/pinterest.svg');
-  }
-
-  .reddit {
-    background-image: url('~@/static/social-icons/reddit.svg');
-  }
+  // background-color: rgb(249, 250, 252);
 }
 
 .title {

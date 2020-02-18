@@ -2,27 +2,16 @@
   <div id="post-page" class="page-wrapper post-page">
     <main-section :one-column-constrained="true">
       <template v-slot:default>
-        <div class="card padded">
+        <div class="">
           <blog-image :image="featureImage" :alt="title"></blog-image>
 
-          <social-sharing
-            :url="'https://www.makemoneyonlineninja.com/' + slug"
-            :title="title"
-            :description="teaser"
-            inline-template
-          >
-            <div class="social-sharing">
-              <network network="facebook">
-                <i class="facebook"></i>
-              </network>
-              <network network="twitter">
-                <i class="twitter"></i>
-              </network>
-              <network network="pinterest">
-                <i class="pinterest"></i>
-              </network>
-            </div>
-          </social-sharing>
+          <AddThis
+            public-id="5e4bbba630202b41"
+            :data-url="`https://www.makemoneyonlineninja.com/${slug}`"
+            :data-title="title"
+            :data-description="teaser"
+            :data-media="`https://www.makemoneyonlineninja.com${getRealImage}`"
+          />
 
           <div class="post-wrapper">
             <h1 class="title">
@@ -57,12 +46,15 @@
 </template>
 <script>
 import { mapState } from 'vuex'
+import AddThis from 'vue-simple-addthis-share'
 import { setPageData, getFormattedDate } from '../helper'
 // import 'highlight.js/styles/github.css'
 import Markdown from '~/components/Markdown'
+
 export default {
   components: {
-    Markdown
+    Markdown,
+    AddThis
   },
   jsonld() {
     return {
@@ -72,8 +64,8 @@ export default {
         '@type': 'WebPage',
         '@id': 'https://www.makemoneyonlineninja.com/'
       },
-      url: `https://www.makemoneyonlineninja.com/'${this.$store.state.slug}`,
-      image: `https://www.makemoneyonlineninja.com/'${this.$store.state.featureImage}`,
+      url: `https://www.makemoneyonlineninja.com/${this.$store.state.slug}`,
+      image: `https://www.makemoneyonlineninja.com${this.getRealImage}`,
       headline: `${this.$store.state.title}`,
       alternativeHeadline: `${this.$store.state.subtitle}`,
       dateCreated: `${this.$store.state.date}`,
@@ -120,9 +112,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content:
-            'https://www.makemoneyonlineninja.com' +
-            this.$store.state.featureImage
+          content: 'https://www.makemoneyonlineninja.com' + this.getRealImage
         }
       ]
     }
@@ -138,6 +128,9 @@ export default {
       'category',
       'slug'
     ]),
+    getRealImage() {
+      return require(`~/assets${this.featureImage}`)
+    },
     date() {
       return getFormattedDate(this.$store.state.date)
     },
@@ -161,5 +154,9 @@ export default {
 
 .other-posts {
   margin-top: 2.5rem;
+}
+
+.addthis_inline_share_toolbox {
+  margin: 1.25rem 0;
 }
 </style>

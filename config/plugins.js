@@ -5,5 +5,6 @@ export default [
   '~/plugins/EventBus',
   '~/plugins/Components',
   '~/plugins/SocialSharing',
-  '~/plugins/JsonLD'
+  '~/plugins/JsonLD',
+  '~/plugins/AddThis'
 ]

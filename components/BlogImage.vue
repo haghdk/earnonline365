@@ -1,13 +1,11 @@
 <template>
-  <picture>
-    <img
-      class="blog-image"
-      :src="responsiveImage.src"
-      :lazy="false"
-      :srcset="responsiveImage.srcSet"
-      :alt="title"
-    />
-  </picture>
+  <img
+    class="blog-image"
+    :src="responsiveImage.src"
+    :lazy="false"
+    :srcset="responsiveImage.srcSet"
+    :alt="title"
+  />
 </template>
 <script>
 export default {

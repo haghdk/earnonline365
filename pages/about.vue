@@ -4,8 +4,8 @@
     <main-section>
       <template v-slot:default>
         <div class="column is-8 is-offset-2">
-          <div class="content card padded">
-            <h3>About</h3>
+          <div class="content">
+            <h1>About</h1>
 
             <p>
               On Make Money Online Ninja you can read about all my experiences
