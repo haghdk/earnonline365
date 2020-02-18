@@ -33,13 +33,12 @@
           </div>
         </div>
 
-        <div class="other-posts">
+        <!-- <div class="other-posts">
           <h6 class="subtitle is-size-4">
             Related Posts
           </h6>
-          <!-- Related Posts -->
           <posts-grid :number="2" :category="category" :exclude="slug" />
-        </div>
+        </div> -->
       </template>
     </main-section>
   </div>
