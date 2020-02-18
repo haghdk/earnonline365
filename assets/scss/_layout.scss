@@ -50,7 +50,7 @@ dt {
 }
 
 body {
-  // background-color: rgb(249, 250, 252);
+  font-family: $body-family;
 }
 
 .title {
@@ -61,6 +61,14 @@ body {
   margin-top: 0.75rem;
   margin-bottom: 1.25rem;
   font-size: 0.85rem;
+}
+
+.column .card {
+  box-shadow: 0 3px 8px 0 rgba(54,57,73,.08);
+}
+
+.column .card-content {
+  padding: 1rem;
 }
 
 /* purgecss end ignore */
