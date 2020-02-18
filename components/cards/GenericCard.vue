@@ -1,5 +1,5 @@
 <template>
-  <div class="card">
+  <div v-if="link !== undefined" class="card">
     <div class="card-image">
       <nuxt-link :to="link">
         <figure :class="`image is-${imageRatioClass}`">
@@ -43,17 +43,16 @@
       </div>
 
       <div class="published-wrapper">
-        <time v-if="date">{{ date }}</time>
+        <time v-if="date" :class="`${date ? '' : 'empty-content-placeholder'}`">
+          {{ date }}
+        </time>
         <span
           v-if="author && $siteConfig.posts.displayAuthor"
+          :class="`${author ? '' : 'empty-content-placeholder'}`"
           class="author-wrapper"
         >
           by {{ author }}
         </span>
-      </div>
-
-      <div class="teaser size-3">
-        {{ teaser }}
       </div>
 
       <nuxt-link :to="link" class="read-more">
@@ -120,6 +119,10 @@ export default {
   &.subtitle {
     width: 70%;
   }
+}
+
+time {
+  display: block;
 }
 
 .card {

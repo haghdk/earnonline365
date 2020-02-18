@@ -14,7 +14,10 @@ export default {
   name: 'BlogImage',
   props: {
     image: { type: String, default: '' },
-    title: { type: String, default: '' }
+    title: {
+      type: String,
+      default: 'Make Money Online with affiliate marketing'
+    }
   },
   computed: {
     responsiveImage() {
