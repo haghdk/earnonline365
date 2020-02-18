@@ -13,6 +13,7 @@
 
 <script>
 import 'animate.css/animate.min.css'
+
 export default {
   transition: 'slide-fade',
   head() {
@@ -42,7 +43,7 @@ export default {
         {
           hid: 'og:url',
           property: 'og:url',
-          content: this.url
+          content: `https://www.makemoneyonlineninja.com${this.$route.fullPath}`
         },
         {
           hid: 'twitter:card',
