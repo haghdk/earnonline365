@@ -35,6 +35,10 @@ export default {
   modules: modules,
   ...modulesSettings,
   /*
+   ** redirect configuration
+   */
+  redirect: [{ from: '^/contact', to: '/', statusCode: 301 }],
+  /*
    ** sitemap configuration
    */
   sitemap: {

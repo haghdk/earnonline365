@@ -16,11 +16,12 @@ export const modules = [
   '@nuxtjs/style-resources',
   '@nuxtjs/sitemap',
   'nuxt-fontawesome',
-  'nuxt-responsive-loader'
+  'nuxt-responsive-loader',
+  '@nuxtjs/redirect-module'
 ]
-if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
-  modules.push('@nuxtjs/google-analytics')
-}
+// if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
+//   modules.push('@nuxtjs/google-analytics')
+// }
 
 if (siteConfig.gtm.on && siteConfig.gtm.id) {
   modules.push('@nuxtjs/gtm')
