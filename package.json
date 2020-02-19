@@ -50,6 +50,7 @@
     "v-runtime-template": "^1.10.0",
     "vue": "^2.6.11",
     "vue-disqus": "^3.0.5",
+    "vue-server-renderer": "^2.6.11",
     "vue-simple-addthis-share": "^0.1.4",
     "vue-social-sharing": "^2.4.7"
   },
