@@ -3,3 +3,9 @@
   command = "npm run generate"
 [build.environment]
   NODE_VERSION = "11"
+
+[[redirects]]
+  from = "/contact"
+  to = "/"
+  status = 301
+  force = false
