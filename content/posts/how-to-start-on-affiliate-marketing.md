@@ -55,15 +55,9 @@ After you have joined you can then select a product in the marketplace that you 
 
 A good rule of thumb is to look at the gravity score. It is number that shows how many distinct affiliates that have earned a commission during the past 12 weeks promoting that particular product. The higher the number the more affiliates. This number is not automatically a criteria for success. A really high number also means high competition. So try to find a gravity score between 20 and 100.
 
-
-
 ![Clickbank Promote](/uploads/promote.jpg "Clickbank Promote")
 
-
-
 Click on the red “Promote” button and in the new window type in your account nickname and click “Generate Hoplinks” to get your unique link to promote. You can also type in a name in the Tracking ID field to be able to track the different traffic sources you are using, for example if you are promoting on Facebook, you can type that in.
-
-
 
 ![Clickbank Hoplinks](/uploads/hoplinks.jpg "Clickbank Hoplinks")
 
@@ -111,6 +105,6 @@ The best way to track this is by using a link tracker. The best one is **[ClickM
 \
 **6. Training**
 
-Signing up for an affiliate training program is a really good idea to get started. That way you can avoid making many of basic mistake many new affiliate marketers (including me) are making. It is money really great spend. Many experience marketers have training programs, but the one I will recommend is the 12 Minute Affiliates program that have all the basic information to get a succesful start in affiliate marketing. You can see more about the program and get started **[HERE](https://f8aa9ajej9czdobbkqmc3p4ua8.hop.clickbank.net/?tid=MAKEMONEYONLINENINJA)**.
+Signing up for an affiliate training program is a really good idea to get started. That way you can avoid making many of basic mistake many new affiliate marketers (including me) are making. It is money really great spend. Many experience marketers have training programs, but the one I will recommend is the 12 Minute Affiliates program that have all the basic information to get a succesful start in affiliate marketing. Check it out **[HERE](https://pages.myaffiliateoptin.site/promo/12minuteaffiliates)**.
 
 I hope these basic steps can help you get started. Besides these steps just watch a bunch of YouTube videos on the matter. It can be a tremendous help to watch how other affiliate marketers work.
