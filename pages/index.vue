@@ -1,5 +1,11 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
+    <site-hero
+      title="A blog about making money online with affiliate marketing
+"
+      image="/uploads/make-money-online.jpg"
+    ></site-hero>
+
     <!-- <button
       class="button is-primary"
       @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
@@ -10,9 +16,7 @@
       <template v-slot:default>
         <!-- All Posts -->
         <div class="column is-10 is-offset-1">
-          <h1 class="title">
-            A blog about making money online with affiliate marketing
-          </h1>
+          <h1 class="title"></h1>
           <posts-grid :per-row="2" />
         </div>
       </template>

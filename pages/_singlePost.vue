@@ -1,9 +1,19 @@
 <template>
   <div id="post-page" class="page-wrapper post-page">
+    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+      <time v-if="date">{{ date }}</time>
+      <span
+        v-if="author && $siteConfig.posts.displayAuthor"
+        class="author-wrapper"
+      >
+        by {{ author }}
+      </span>
+    </site-hero>
+
     <main-section :one-column-constrained="true">
       <template v-slot:default>
         <div class="">
-          <blog-image :image="featureImage" :alt="title"></blog-image>
+          <!-- <blog-image :image="featureImage" :alt="title"></blog-image> -->
 
           <AddThis
             public-id="5e4bbba630202b41"
@@ -14,7 +24,7 @@
           />
 
           <div class="post-wrapper">
-            <h1 class="title">
+            <!-- <h1 class="title">
               {{ title }}
             </h1>
             <h2>{{ subtitle }}</h2>
@@ -27,7 +37,7 @@
               >
                 by {{ author }}
               </span>
-            </div>
+            </div> -->
 
             <markdown :markdown="$store.state.content" />
           </div>
@@ -156,6 +166,6 @@ export default {
 }
 
 .addthis_inline_share_toolbox {
-  margin: 1.25rem 0;
+  margin: 0 0 1.25rem 0;
 }
 </style>

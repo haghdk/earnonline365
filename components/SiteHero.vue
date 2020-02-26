@@ -8,14 +8,18 @@
     />
     <div class="hero-body">
       <div class="container">
-        <div
-          v-if="$slots.default"
-          class="under-subtitle animated fadeInDown slower"
-        >
+        <h1 class="title">
+          {{ title }}
+        </h1>
+        <h2 v-if="subtitle" class="subtitle">
+          {{ subtitle }}
+        </h2>
+        <div v-if="$slots.default" class="under-subtitle">
           <slot />
         </div>
       </div>
     </div>
+    <div class="wave"></div>
   </section>
 </template>
 <script>
@@ -56,9 +60,8 @@ export default {
 }
 
 .title {
-  font-weight: 300;
   @media (min-width: 768px) {
-    font-size: 3.2rem;
+    font-size: 2.8rem;
   }
 }
 .subtitle,
@@ -73,8 +76,15 @@ export default {
 .under-subtitle {
   display: inline-block;
   font-size: 0.8rem;
-  border-top: 2px solid $primary;
-  padding-top: 5px;
+
+  &::before {
+    content: '';
+    display: block;
+    width: 75%;
+    height: 1px;
+    background-color: #ffffff;
+    margin: 1.25rem auto 1.25rem;
+  }
 }
 .opti-image {
   opacity: 0;
@@ -146,5 +156,42 @@ export default {
   .under-subtitle strong {
     text-shadow: 1px 1px 2px white;
   }
+}
+
+.wave {
+  background: linear-gradient(to right, transparent, transparent);
+  height: 50px;
+  position: relative;
+  z-index: 1;
+}
+.wave::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-repeat: repeat;
+  height: 10px;
+  background-size: 20px 20px;
+  background-image: radial-gradient(
+    circle at 10px -5px,
+    transparent 12px,
+    #ffffff 13px
+  );
+}
+.wave::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-repeat: repeat;
+  height: 15px;
+  background-size: 40px 20px;
+  background-image: radial-gradient(
+    circle at 10px 15px,
+    #ffffff 12px,
+    transparent 13px
+  );
 }
 </style>
