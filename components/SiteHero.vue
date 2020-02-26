@@ -62,6 +62,8 @@ export default {
 .title {
   @media (min-width: 768px) {
     font-size: 2.8rem;
+    max-width: 75%;
+    margin: auto;
   }
 }
 .subtitle,
