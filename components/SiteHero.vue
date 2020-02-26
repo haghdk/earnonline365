@@ -160,6 +160,10 @@ export default {
   }
 }
 
+.title:not(.is-spaced) + .subtitle {
+  margin-top: 1.25rem;
+}
+
 .wave {
   background: linear-gradient(to right, transparent, transparent);
   height: 50px;
