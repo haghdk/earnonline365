@@ -36,4 +36,4 @@ The best part is that you can start the training the first month for only a $1!
 
 Go ahead and begin your journey
 
-\==> [HERE](https://pages.myaffiliateoptin.site/promo/workathomesecrets/?utm_source=makemoneyonlineninja&utm_medium=email&utm_campaign=workathomesecret)
+\==> [HERE](https://pages.myaffiliateoptin.site/promo/workathomesecrets/?utm_source=makemoneyonlineninja&utm_medium=web&utm_campaign=workathomesecret)
