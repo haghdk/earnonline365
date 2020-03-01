@@ -3,6 +3,7 @@ title: Work at home Secrets and scams
 subtitle: Get a successful work-at-home business
 category:
   - Affiliate marketing
+  - Work from home
 author: Morten Jensen
 date: 2020-03-01T07:42:47.355Z
 featureImage: /uploads/workathomesecrets.png
