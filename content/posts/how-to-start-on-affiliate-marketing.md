@@ -7,7 +7,18 @@ category:
 author: Morten Jensen
 date: 2020-02-17T12:57:12.820Z
 featureImage: /uploads/clickbank.jpg
-teaser: The road the passive income
+teaser: >-
+  The passive income you eventually can stack up from affiliate marketing is
+  without a doubt very alluring.
+
+
+  Although the concept of affiliate marketing is very simple - you promote a
+  product, and gets a commission when you make a sale, it can be a bit confusing
+  to know where to start.
+
+
+  It was for me, but after some trying around and a bit of research I started to
+  figure it out.
 metadescription: >-
   The passive income you eventually can stack up from affiliate marketing is
   without a doubt very alluring.  Although the concept of affiliate marketing is
@@ -15,11 +26,7 @@ metadescription: >-
   sale, it can be a bit confusing to know where to start.
 metaogimage: /uploads/clickbank.jpg
 ---
-The passive income you eventually can stack up from affiliate marketing is without a doubt very alluring.
 
-Although the concept of affiliate marketing is very simple - you promote a product, and gets a commission when you make a sale, it can be a bit confusing to know where to start.
-
-It was for me, but after some trying around and a bit of research I started to figure it out.
 
 ## So how do you start on affiliate marketing?
 
