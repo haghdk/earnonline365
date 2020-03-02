@@ -37,6 +37,8 @@ When you have created your list an optin page, you need to drive traffic to that
 
 One really effective way is buy using solo ads. Solo ads are email ads send to highly targeted users that have agreed to receive emails with content on a specific niche that they are interested, for example “Make money online”.
 
+
+
 ![Udimi](/uploads/udimi-logo.png "Udimi")
 
 The best and most reliant service selling solo ads is Udimi. On Udimi you can find solo ad sellers that people trust and are getting great results from. You can filter out sellers by reviews, sales etc. and by that finding the best sellers.
