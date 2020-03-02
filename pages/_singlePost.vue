@@ -26,18 +26,9 @@
           <div class="post-wrapper">
             <!-- <h1 class="title">
               {{ title }}
-            </h1>
-            <h2>{{ subtitle }}</h2>
+            </h1> -->
 
-            <div class="published-wrapper">
-              <time v-if="date">{{ date }}</time>
-              <span
-                v-if="author && $siteConfig.posts.displayAuthor"
-                class="author-wrapper"
-              >
-                by {{ author }}
-              </span>
-            </div> -->
+            <span>{{ teaser }}</span>
 
             <markdown :markdown="$store.state.content" />
           </div>

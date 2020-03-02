@@ -1,7 +1,7 @@
 <template>
   <div v-if="link !== undefined" class="card">
     <div class="card-image">
-      <nuxt-link :to="link">
+      <nuxt-link v-if="image" :to="link">
         <figure :class="`image is-${imageRatioClass}`">
           <opti-image
             v-if="image"
@@ -42,7 +42,7 @@
         </div>
       </div>
 
-      <div class="published-wrapper">
+      <div v-if="cardtype != 'category'" class="published-wrapper">
         <time v-if="date" :class="`${date ? '' : 'empty-content-placeholder'}`">
           {{ date }}
         </time>
@@ -55,7 +55,7 @@
         </span>
       </div>
 
-      <nuxt-link :to="link" class="read-more">
+      <nuxt-link v-if="cardtype != 'category'" :to="link" class="read-more">
         Read more
       </nuxt-link>
     </div>
@@ -71,7 +71,11 @@ export default {
     link: { type: String, default: '' },
     date: { type: String, default: '' },
     author: { type: String, default: '' },
-    imageDimensions: { type: String, default: imageDimensionDefault }
+    imageDimensions: { type: String, default: imageDimensionDefault },
+    cardtype: {
+      type: String,
+      default: ''
+    }
   },
   computed: {
     imageRatioClass() {
