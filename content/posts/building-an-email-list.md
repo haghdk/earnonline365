@@ -24,7 +24,7 @@ So how do you get one?
 
 First of all you need an optin-page where people can signup to your email list. I would highly recommend you to use GetResponse. In my opinion it is the best list builder, landing page creator and autoresponder.
 
-![GetResponse](/uploads/getresponse-logo.svg "GetResponse")
+![GetResponse](/uploads/getresponse-logo.jpg "GetResponse")
 
 With GetResponse you can create an email list and a optin-page where people can signup to your list.
 
@@ -36,8 +36,6 @@ You can signup for a 30-day FREE trial right\
 When you have created your list an optin page, you need to drive traffic to that page
 
 One really effective way is buy using solo ads. Solo ads are email ads send to highly targeted users that have agreed to receive emails with content on a specific niche that they are interested, for example “Make money online”.
-
-
 
 ![Udimi](/uploads/udimi-logo.png "Udimi")
 
