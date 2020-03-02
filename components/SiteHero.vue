@@ -19,7 +19,6 @@
         </div>
       </div>
     </div>
-    <div class="wave"></div>
   </section>
 </template>
 <script>
@@ -162,42 +161,5 @@ export default {
 
 .title:not(.is-spaced) + .subtitle {
   margin-top: 1.25rem;
-}
-
-.wave {
-  background: linear-gradient(to right, transparent, transparent);
-  height: 50px;
-  position: relative;
-  z-index: 1;
-}
-.wave::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background-repeat: repeat;
-  height: 10px;
-  background-size: 20px 20px;
-  background-image: radial-gradient(
-    circle at 10px -5px,
-    transparent 12px,
-    #ffffff 13px
-  );
-}
-.wave::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background-repeat: repeat;
-  height: 15px;
-  background-size: 40px 20px;
-  background-image: radial-gradient(
-    circle at 10px 15px,
-    #ffffff 12px,
-    transparent 13px
-  );
 }
 </style>

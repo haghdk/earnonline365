@@ -67,7 +67,7 @@ export default {
       this.resourceController.reset()
       this.page = 0
       this.allLoaded = false
-      this.firstPageLoaded = false
+      this.firstPageLoaded = true
       this.loading = false
       this.resources = []
     },
