@@ -28,7 +28,9 @@
               {{ title }}
             </h1> -->
 
-            <span>{{ teaser }}</span>
+            <div class="teaser">
+              {{ teaser }}
+            </div>
 
             <markdown :markdown="$store.state.content" />
           </div>
@@ -158,5 +160,10 @@ export default {
 
 .addthis_inline_share_toolbox {
   margin: 0 0 1.25rem 0;
+}
+
+.teaser {
+  margin-bottom: 1.25rem;
+  font-weight: 700;
 }
 </style>
