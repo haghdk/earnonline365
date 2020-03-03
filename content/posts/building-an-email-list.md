@@ -6,7 +6,7 @@ category:
   - Solo ads
 author: Morten Jensen
 date: 2020-03-02T10:01:55.965Z
-featureImage: /uploads/udimi.jpg
+featureImage: /uploads/email-list.jpg
 teaser: >-
   When starting your affiliate marketing business you need traffic to your
   offers. There are many ways you can do this. The best method is to send you
@@ -18,7 +18,7 @@ metadescription: >-
   When starting your affiliate marketing business you need traffic to your
   offers. There are many ways you can do this. The best method is to send you
   offers to your email list promoting the product you want to sell. 
-metaogimage: /uploads/udimi.jpg
+metaogimage: /uploads/email-list.jpg
 ---
 So how do you get one?
 
@@ -36,8 +36,6 @@ You can signup for a 30-day FREE trial right\
 When you have created your list an optin page, you need to drive traffic to that page
 
 One really effective way is buy using solo ads. Solo ads are email ads send to highly targeted users that have agreed to receive emails with content on a specific niche that they are interested, for example “Make money online”.
-
-
 
 ![Udimi](/uploads/udimi-logo.png "Udimi")
 
