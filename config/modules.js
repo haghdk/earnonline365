@@ -17,7 +17,8 @@ export const modules = [
   '@nuxtjs/sitemap',
   'nuxt-fontawesome',
   'nuxt-responsive-loader',
-  '@nuxtjs/redirect-module'
+  '@nuxtjs/redirect-module',
+  '@nuxtjs/robots'
 ]
 // if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
 //   modules.push('@nuxtjs/google-analytics')

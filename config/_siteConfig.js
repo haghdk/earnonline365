@@ -28,11 +28,11 @@ export default {
     },
     {
       name: 'Categories',
-      link: '/categories'
+      link: '/categories/'
     },
     {
       name: 'About',
-      link: '/about'
+      link: '/about/'
     }
   ],
   hero: {

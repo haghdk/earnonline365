@@ -13,7 +13,15 @@ export default {
    ** Customize the progress-bar color
    */
   loading: { color: '#fff' },
-
+  /*
+   ** Customize the progress-bar color
+   */
+  robots: [
+    {
+      UserAgent: '*',
+      Disallow: () => '/admin' // accepts function
+    }
+  ],
   /*
    ** Headers of the page
    */
@@ -37,7 +45,13 @@ export default {
   /*
    ** redirect configuration
    */
-  redirect: [{ from: '^/contact', to: '/', statusCode: 301 }],
+  redirect: [
+    { from: '^/contact', to: '/', statusCode: 301 },
+    {
+      from: '^.*(?<!/)$',
+      to: (from, req) => req.url + '/'
+    }
+  ],
   /*
    ** sitemap configuration
    */
@@ -45,6 +59,7 @@ export default {
     hostname: 'https://www.makemoneyonlineninja.com',
     gzip: true,
     exclude: ['/thankyou', '/blog', '/admin/**'],
+    trailingSlash: true,
     defaults: {
       changefreq: 'daily',
       priority: 1,
