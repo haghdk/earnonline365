@@ -76,4 +76,12 @@ export default {
 .navbar-menu a {
   display: block;
 }
+
+.navbar-item a {
+  &.nuxt-link-exact-active {
+    &::after {
+      width: 75%;
+    }
+  }
+}
 </style>

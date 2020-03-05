@@ -1,19 +1,18 @@
 .navbar-item {
-    a {
-        
-        &::after {
-            content: '';
-            display: block;
-            height: 1px;
-            background-color: #4d4d4d;
-            width: 0;   
-            transition: width 0.15s cubic-bezier(0.645, 0.045, 0.355, 1);
-        }
-
-        &:hover, &.nuxt-link-exact-active {
-            &::after {
-                width: 75%;
-            }
-        }   
+  a {
+    &::after {
+      content: '';
+      display: block;
+      height: 1px;
+      background-color: #4d4d4d;
+      width: 0;
+      transition: width 0.15s cubic-bezier(0.645, 0.045, 0.355, 1);
     }
+
+    &:hover {
+      &::after {
+        width: 75%;
+      }
+    }
+  }
 }
