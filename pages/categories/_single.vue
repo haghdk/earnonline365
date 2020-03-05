@@ -18,7 +18,7 @@
             <nuxt-link
               v-for="cat in allCats"
               :key="cat.slug"
-              :to="`/categories/${cat.slug}`"
+              :to="`/categories/${cat.slug}/`"
               :class="{
                 'panel-block': true,
                 'is-active': cat.slug === $route.params.single
