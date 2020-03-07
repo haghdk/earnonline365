@@ -42,7 +42,8 @@ I also made some sales that got me that long awaited commission. To see that com
 
 ![Clickbank commissions](/uploads/clickbank-sales.jpg "Clickbank commissions")
 
-\
+
+
 By writing this blog post I hope that I can help you that want to get into affiliate marketing to avoid the same mistakes I did. Not to avoid mistakes. Mistakes are what we all learn from. But I hope I can help you to not wasting money and motivation and instead get a successful start on affiliate marketing.
 
 ## Start on training
@@ -51,6 +52,6 @@ One on the best ways to get started is to use training where you will learn all 
 
 Get more information [HERE](https://pages.myaffiliateoptin.site/promo/12minuteaffiliates/?utm_source=makemoneyonlineninja&utm_medium=web&utm_campaign=12minuteaffiliates)
 
-## Building an email list
+### Building an email list
 
 As I explained in [THIS](https://www.makemoneyonlineninja.com/building-an-email-list/) post, building an email list is really important. I am using GetResponse as my list builder and autoresponder. You can sign up for a 30-day FREE trial [HERE](https://www.getresponse.com/?a=pEkMFNHHwP&c=makemoneyonlineninja).
