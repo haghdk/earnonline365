@@ -23,7 +23,26 @@
 export default {
   head() {
     return {
-      title: `About ← ${this.$siteConfig.siteName}`
+      title: `About ← ${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `About ← ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'On Make Money Online Ninja you can read about all my experiences with affiliate marketing. All my successes and all my failures. And also all my recommendations so you too can get started make money online.'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content:
+            'On Make Money Online Ninja you can read about all my experiences with affiliate marketing. All my successes and all my failures. And also all my recommendations so you too can get started make money online.'
+        }
+      ]
     }
   },
   components: {}
