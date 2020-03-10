@@ -50,31 +50,6 @@ export default {
     {
       from: '^.*(?<!/)$',
       to: (from, req) => req.url + '/'
-    },
-    {
-      from: '/my-first-affiliate-commission/',
-      to: '/blog/my-first-affiliate-commission/',
-      statusCode: 301
-    },
-    {
-      from: '/building-an-email-list/',
-      to: '/blog/building-an-email-list/',
-      statusCode: 301
-    },
-    {
-      from: '/work-at-home-secrets-and-scams/',
-      to: '/blog/work-at-home-secrets-and-scams/',
-      statusCode: 301
-    },
-    {
-      from: '/how-to-start-on-affiliate-marketing/',
-      to: '/blog/how-to-start-on-affiliate-marketing/',
-      statusCode: 301
-    },
-    {
-      from: '/the-money-is-in-the-list/',
-      to: '/blog/the-money-is-in-the-list/',
-      statusCode: 301
     }
   ],
   /*

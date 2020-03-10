@@ -9,3 +9,33 @@
   to = "/"
   status = 301
   force = false
+
+[[redirects]]
+  from = "/how-to-start-on-affiliate-marketing/"
+  to = "/blog/how-to-start-on-affiliate-marketing/"
+  status = 301
+  force = false
+  
+[[redirects]]
+  from = "/my-first-affiliate-commission/"
+  to = "/blog/my-first-affiliate-commission/"
+  status = 301
+  force = false  
+
+[[redirects]]
+  from = "/building-an-email-list/"
+  to = "/blog/building-an-email-list/"
+  status = 301
+  force = false  
+
+[[redirects]]
+  from = "/work-at-home-secrets-and-scams/"
+  to = "/blog/work-at-home-secrets-and-scams/"
+  status = 301
+  force = false  
+  
+[[redirects]]
+  from = "/the-money-is-in-the-list/"
+  to = "/blog/the-money-is-in-the-list/"
+  status = 301
+  force = false  
