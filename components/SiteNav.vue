@@ -1,9 +1,5 @@
 <template>
-  <nav
-    class="navbar has-shadow is-fixed-top"
-    role="navigation"
-    aria-label="main navigation"
-  >
+  <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <nuxt-link class="navbar-item" to="/">
         <site-logo v-if="$siteConfig.logo === 'logo-component'" />
@@ -60,6 +56,11 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+.navbar {
+  min-height: 0;
+  padding: 1.25rem 2.5rem;
+}
+
 .navbar-item img {
   max-height: 2rem;
 }
@@ -73,15 +74,23 @@ export default {
   height: auto;
 }
 
+.navbar-menu {
+  @media screen and (max-width: 1023px) {
+    box-shadow: none;
+  }
+}
+
 .navbar-menu a {
   display: block;
 }
 
 .navbar-item a {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.85rem;
+
   &.nuxt-link-exact-active {
-    &::after {
-      width: 75%;
-    }
+    color: #df2626;
   }
 }
 </style>

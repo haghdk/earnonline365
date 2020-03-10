@@ -1,15 +1,19 @@
 <template>
-  <div
-    :class="
-      `site-layout-width-${$siteConfig.layout.width} posts-theme-${$siteConfig.posts.theme}`
-    "
-  >
+  <div :class="`site-layout-width-${$siteConfig.layout.width}`">
     <site-nav />
     <nuxt />
-    <news-letter-slide-out v-if="$siteConfig.newsletter.on" />
+
     <site-footer></site-footer>
   </div>
 </template>
+
+<style lang="scss">
+a {
+  &:hover {
+    color: #df2626;
+  }
+}
+</style>
 
 <script>
 import 'animate.css/animate.min.css'

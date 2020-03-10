@@ -1,7 +1,7 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero
-      title="A blog about making money online with affiliate marketing"
+      title="Blog"
       image="/uploads/how-to-make-money-online.jpg"
     ></site-hero>
 
@@ -9,7 +9,7 @@
       <template v-slot:default>
         <!-- All Posts -->
         <div class="column is-8 is-offset-1">
-          <h2 class="title">Latest posts</h2>
+          <h2 class="title">All posts</h2>
           <hr />
           <posts-grid :per-row="1" />
         </div>
@@ -39,7 +39,7 @@ hr {
 
 <script>
 import { mapState } from 'vuex'
-import { setPageData } from '../helper'
+import { setPageData } from '../../helper'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {

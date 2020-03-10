@@ -64,15 +64,21 @@ body {
 }
 
 .column .card {
-  box-shadow: 0 3px 8px 0 rgba(54,57,73,.08);
+  box-shadow: none;
+  margin-bottom: 2.5rem;
 }
 
 .column .card-content {
-  padding: 1rem;
+  padding: 1rem 0;
 }
 
 input.input {
   border-radius: 0;
+}
+
+hr {
+  border: 2px solid #df2626 !important;
+  width: 50px;
 }
 
 /* purgecss end ignore */

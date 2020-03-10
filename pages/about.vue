@@ -1,12 +1,13 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
-    <site-hero image="/uploads/make-money-online.jpg"></site-hero>
+    <site-hero
+      title="About"
+      image="/uploads/how-to-make-money-online.jpg"
+    ></site-hero>
     <main-section>
       <template v-slot:default>
         <div class="column is-8 is-offset-2">
           <div class="content">
-            <h1>About</h1>
-
             <p>
               On Make Money Online Ninja you can read about all my experiences
               with affiliate marketing.<br />All my successes and all my
@@ -19,6 +20,13 @@
     </main-section>
   </div>
 </template>
+
+<style lang="scss" scoped>
+.section {
+  padding: 2.5rem 0;
+}
+</style>
+
 <script>
 export default {
   head() {

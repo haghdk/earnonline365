@@ -27,8 +27,12 @@ export default {
       link: '/'
     },
     {
-      name: 'Categories',
-      link: '/categories/'
+      name: 'Blog',
+      link: '/blog/'
+    },
+    {
+      name: 'Tools',
+      link: '/tools/'
     },
     {
       name: 'About',
@@ -82,7 +86,7 @@ export default {
 
   // Categories
   categories: {
-    on: true,
+    on: false,
     perPage: 12,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)

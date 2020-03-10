@@ -1,39 +1,37 @@
 <template>
   <div id="post-page" class="page-wrapper post-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <time v-if="date">{{ date }}</time>
-      <span
-        v-if="author && $siteConfig.posts.displayAuthor"
-        class="author-wrapper"
-      >
-        by {{ author }}
-      </span>
-    </site-hero>
-
     <main-section :one-column-constrained="true">
       <template v-slot:default>
-        <div class="">
-          <!-- <blog-image :image="featureImage" :alt="title"></blog-image> -->
+        <div class="header-time">
+          <h1 class="title">
+            {{ title }}
+          </h1>
 
-          <AddThis
-            public-id="5e4bbba630202b41"
-            :data-url="`https://www.makemoneyonlineninja.com/${slug}`"
-            :data-title="title"
-            :data-description="teaser"
-            :data-media="`https://www.makemoneyonlineninja.com${getRealImage}`"
-          />
+          <time v-if="date">{{ date }}</time>
+          <span
+            v-if="author && $siteConfig.posts.displayAuthor"
+            class="author-wrapper"
+          >
+            by {{ author }}
+          </span>
+        </div>
 
-          <div class="post-wrapper">
-            <!-- <h1 class="title">
-              {{ title }}
-            </h1> -->
+        <AddThis
+          public-id="5e4bbba630202b41"
+          :data-url="`https://www.makemoneyonlineninja.com/${slug}`"
+          :data-title="title"
+          :data-description="teaser"
+          :data-media="`https://www.makemoneyonlineninja.com${getRealImage}`"
+        />
 
-            <div class="teaser">
-              {{ teaser }}
-            </div>
+        <blog-image :image="featureImage" :alt="title"></blog-image>
 
-            <markdown :markdown="$store.state.content" />
+        <div class="post-wrapper">
+          <div class="teaser">
+            {{ teaser }}
           </div>
+
+          <markdown :markdown="$store.state.content" />
         </div>
 
         <!-- <div class="other-posts">
@@ -49,7 +47,7 @@
 <script>
 import { mapState } from 'vuex'
 import AddThis from 'vue-simple-addthis-share'
-import { setPageData, getFormattedDate } from '../helper'
+import { setPageData, getFormattedDate } from '../../helper'
 // import 'highlight.js/styles/github.css'
 import Markdown from '~/components/Markdown'
 
@@ -146,8 +144,8 @@ export default {
 }
 </script>
 <style scoped lang="scss">
-.edit-post {
-  margin-bottom: 20px;
+.header-time {
+  margin-bottom: 1.25rem;
 }
 
 .title {

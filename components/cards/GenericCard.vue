@@ -21,14 +21,13 @@
           <nuxt-link :to="link">
             <h3
               :class="
-                `title
-                is-5
-                has-text-weight-light
+                `title1
                 ${title ? '' : 'empty-content-placeholder'}`
               "
             >
               {{ title }}
             </h3>
+
             <!-- <h4
               :class="{
                 subtitle: true,
@@ -39,6 +38,8 @@
               <slot></slot>
             </h4> -->
           </nuxt-link>
+
+          <span class="teaser">{{ teaser }}</span>
         </div>
       </div>
 
@@ -137,6 +138,12 @@ time {
 
 .read-more {
   font-weight: bold;
+}
+
+h3.title1 {
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 </style>
 <style lang="scss">

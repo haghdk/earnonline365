@@ -52,9 +52,10 @@ export default {
 </script>
 
 <style lang="scss">
-.page-main-section {
-  margin-top: 52px;
+.section {
+  padding: 0;
 }
+
 .hero + .page-main-section {
   margin-top: initial;
 }

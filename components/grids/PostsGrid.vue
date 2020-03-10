@@ -8,7 +8,8 @@
       <post-card
         :title="item.title"
         :subtitle="item.subtitle"
-        :link="`/${item.slug}/`"
+        :teaser="item.teaser"
+        :link="`/blog/${item.slug}/`"
         :image="item.featureImage"
         :author="item.author"
         :date="item.date"

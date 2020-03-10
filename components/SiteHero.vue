@@ -50,7 +50,6 @@ export default {
 
 <style lang="scss" scoped>
 .hero {
-  margin-top: 52px;
   background-size: cover !important;
   background-position: center;
   text-align: center;
@@ -139,6 +138,13 @@ export default {
     z-index: 2;
   }
 }
+
+.hero-body {
+  @media (max-width: 767px) {
+    padding: 7.5rem 1.5rem;
+  }
+}
+
 .hero-theme-dark {
   .title,
   .subtitle,

@@ -8,8 +8,9 @@ $primary-invert: findColorInvert($primary);
 $twitter: #4099ff;
 $twitter-invert: findColorInvert($twitter);
 
-$body-family: 'Montserrat', sans-serif;
-$family-serif: 'Montserrat', sans-serif;
+$body-family: 'Poppins', sans-serif;
+$family-serif: 'Poppins', sans-serif;
+
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
