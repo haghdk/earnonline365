@@ -58,7 +58,15 @@ export default {
 <style lang="scss" scoped>
 .navbar {
   min-height: 0;
-  padding: 1.25rem 2.5rem;
+  padding: 1.25rem 0;
+
+  @media (min-width: 768px) {
+    padding: 1.25rem 1.5rem;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 1.25rem 2.5rem;
+  }
 }
 
 .navbar-item img {

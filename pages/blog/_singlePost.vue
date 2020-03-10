@@ -164,4 +164,11 @@ export default {
   margin-bottom: 1.25rem;
   font-weight: 700;
 }
+
+.section {
+  @media (max-width: 1023px) {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
 </style>
