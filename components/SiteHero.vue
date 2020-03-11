@@ -5,6 +5,8 @@
       :src="responsiveImage.src"
       :lazy="false"
       :srcset="responsiveImage.srcSet"
+      :alt="title"
+      :title="title"
     />
     <div class="hero-body">
       <div class="container">
