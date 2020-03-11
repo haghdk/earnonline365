@@ -43,6 +43,7 @@
     "netlify-cms-widget-youtube-expanded": "^0.3.2",
     "nuxt": "^2.11.0",
     "nuxt-buefy": "^0.3.2",
+    "nuxt-cookie-control": "^1.7.7",
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-jsonld": "^1.4.5",
     "opti-image": "^0.10.0",

@@ -4,6 +4,8 @@
     <nuxt />
 
     <site-footer></site-footer>
+
+    <CookieControl />
   </div>
 </template>
 

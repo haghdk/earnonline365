@@ -9,8 +9,6 @@
       <template v-slot:default>
         <div class="column is-8 is-offset-2">
           <div class="content">
-            <h1>Tools</h1>
-
             <p>
               To get the most success with affiliate marketing many different
               tools can be used, from email lists to tracking tools.

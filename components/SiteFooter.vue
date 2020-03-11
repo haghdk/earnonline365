@@ -10,6 +10,11 @@
         src="@/static/social-icons/instagram.svg"
         alt="makemoneyonlineninja instagram"
     /></a>
+
+    <ul class="footer-links">
+      <li><nuxt-link to="/cookie-policy">Cookie policy</nuxt-link></li>
+      <li><nuxt-link to="/privacy-policy">Privacy policy</nuxt-link></li>
+    </ul>
   </footer>
 </template>
 
@@ -28,6 +33,10 @@ footer {
   img {
     max-width: 30px;
   }
+}
+
+.footer-links {
+  margin-top: 1.25rem;
 }
 </style>
 

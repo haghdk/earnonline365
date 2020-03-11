@@ -18,15 +18,16 @@ export const modules = [
   'nuxt-fontawesome',
   'nuxt-responsive-loader',
   '@nuxtjs/redirect-module',
-  '@nuxtjs/robots'
+  '@nuxtjs/robots',
+  'nuxt-cookie-control'
 ]
 // if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
 //   modules.push('@nuxtjs/google-analytics')
 // }
 
-if (siteConfig.gtm.on && siteConfig.gtm.id) {
-  modules.push('@nuxtjs/gtm')
-}
+// if (siteConfig.gtm.on && siteConfig.gtm.id) {
+//   modules.push('@nuxtjs/gtm')
+// }
 
 export const modulesSettings = {
   fontawesome: {
