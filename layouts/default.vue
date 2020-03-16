@@ -4,7 +4,6 @@
     <nuxt />
 
     <site-footer></site-footer>
-
   </div>
 </template>
 

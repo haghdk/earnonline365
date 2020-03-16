@@ -6,5 +6,6 @@ export default [
   '~/plugins/Components',
   '~/plugins/SocialSharing',
   '~/plugins/JsonLD',
-  '~/plugins/AddThis'
+  '~/plugins/AddThis',
+  '~/plugins/CookieLaw'
 ]

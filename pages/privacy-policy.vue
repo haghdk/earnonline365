@@ -188,5 +188,30 @@
 </style>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: `Privacy Policy ← ${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `Privacy Policy ← ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content:
+            'As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience.'
+        }
+      ]
+    }
+  }
+}
 </script>
