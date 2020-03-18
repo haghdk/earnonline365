@@ -87,9 +87,9 @@
               </div>
 
               <div id="Postearly" class="tool">
-                <h3>Udimi</h3>
+                <h3>Postearly</h3>
 
-                <a href="https://postearly.com/assets/img/logo.svg">
+                <a href="https://postearly.com/a/68238">
                   <img
                     src="@/static/logos/postearly.svg"
                     alt="Postearly"
