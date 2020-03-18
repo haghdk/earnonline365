@@ -50,7 +50,7 @@
                 </p>
               </div>
 
-              <div id="getResponse" class="tool">
+              <div id="Udimi" class="tool">
                 <h3>Udimi</h3>
 
                 <a href="https://udimi.com/a/4wx8q">
@@ -83,6 +83,38 @@
 
                 <a href="https://udimi.com/a/4wx8q" class="read-more"
                   >Buy your first solo ads today</a
+                >
+              </div>
+
+              <div id="Postearly" class="tool">
+                <h3>Udimi</h3>
+
+                <a href="https://postearly.com/assets/img/logo.svg">
+                  <img
+                    src="@/static/logos/postearly.svg"
+                    alt="Postearly"
+                    class="logo"
+                /></a>
+
+                <p>
+                  One of the best ways to get free traffic is by using
+                  Instagram. An account with regular posts and stories will
+                  eventually build up a large amount of followers that could
+                  potentially be buyers of one of the products you are
+                  promoting.
+                </p>
+
+                <p>
+                  By using Postearly you can fully automate this process. You
+                  can set up scheduled posting, automatic following, automatic
+                  direct messaging and a lot more. And you can have multiple
+                  instagram accounts connected to your Postearly account and
+                  manage them in on place. Set up your a bunch of posts,
+                  schedule them and make Postearly manage them for you.
+                </p>
+
+                <a href="https://postearly.com/a/68238" class="read-more"
+                  >Start using PostEarly now</a
                 >
               </div>
             </div>
