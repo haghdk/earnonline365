@@ -3,14 +3,23 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
 
-    <a
-      class="social-icon"
-      href="https://www.instagram.com/makemoneyonlineninja/"
-      ><img
-        src="@/static/social-icons/instagram.svg"
-        alt="makemoneyonlineninja instagram"
-    /></a>
+    <div class="social-icons">
+      <a
+        class="social-icon"
+        href="https://www.instagram.com/makemoneyonlineninja/"
+        ><img
+          src="@/static/social-icons/instagram.svg"
+          alt="makemoneyonlineninja instagram"
+      /></a>
 
+      <a
+        class="social-icon"
+        href="https://www.youtube.com/channel/UCersbZhBS5VscXp8wyMuJvQ"
+        ><img
+          src="@/static/social-icons/youtube.svg"
+          alt="makemoneyonlineninja youtube"
+      /></a>
+    </div>
     <ul class="footer-links">
       <li><nuxt-link to="/cookie-policy">Cookie policy</nuxt-link></li>
       <li><nuxt-link to="/privacy-policy">Privacy policy</nuxt-link></li>
@@ -37,6 +46,12 @@ footer {
 
 .footer-links {
   margin-top: 1.25rem;
+}
+
+.social-icons {
+  display: flex;
+  max-width: 100px;
+  margin: auto;
 }
 </style>
 
