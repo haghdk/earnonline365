@@ -139,7 +139,8 @@
                 <p>
                   A good digital marketing tool is essential to have a
                   successful online business, like affiliate marketing, and this
-                  is where BuilderAll is the perfect tool. It have 5 different plans, including a FREE plan.<br />
+                  is where BuilderAll is the perfect tool. It have 5 different
+                  plans, including a FREE plan.<br />
                   And you can start with a 14 day FREE trial.
                 </p>
 
