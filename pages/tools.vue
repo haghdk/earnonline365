@@ -202,5 +202,31 @@
 </style>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: `Tools ← ${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: `Tools ← ${this.$siteConfig.siteName}`
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'To get the most success with affiliate marketing many different tools can be used, from email lists to tracking tools.'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content:
+            'To get the most success with affiliate marketing many different tools can be used, from email lists to tracking tools.'
+        }
+      ]
+    }
+  },
+  components: {}
+}
 </script>
