@@ -123,6 +123,7 @@
 
                 <a
                   href="https://office.builderall.com/us/franchise/share/1250849/?sd=default_ilm&tid=makemoneyonlineninja"
+                  class="special-logo"
                 >
                   <img
                     src="@/static/logos/builderall.png"
@@ -182,10 +183,15 @@
   }
 }
 
-#builderAll {
-  & > h3 & > a {
-    background-color: #0294ff;
-    padding: 1.25rem;
+.special-logo {
+  background-color: #0294ff;
+  padding: 0.25rem;
+  display: block;
+  margin-bottom: 1.25rem;
+  max-width: 250px;
+
+  img {
+    width: 100%;
   }
 }
 
