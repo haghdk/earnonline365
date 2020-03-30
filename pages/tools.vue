@@ -172,9 +172,20 @@
   background-color: #f9f9f9;
   padding: 1.25rem;
 
+  a {
+    display: block;
+  }
+
   .logo {
     max-width: 300px;
     margin: 1.25rem 0;
+  }
+}
+
+#builderAll {
+  & > h3 & > a {
+    background-color: #0294ff;
+    padding: 1.25rem;
   }
 }
 
