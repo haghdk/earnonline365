@@ -18,7 +18,7 @@
 
         <AddThis
           public-id="5e4bbba630202b41"
-          :data-url="`https://www.makemoneyonlineninja.com/${slug}`"
+          :data-url="`https://www.makemoneyonlineninja.com/blog/${slug}`"
           :data-title="title"
           :data-description="teaser"
           :data-media="`https://www.makemoneyonlineninja.com${getRealImage}`"
@@ -64,7 +64,7 @@ export default {
         '@type': 'WebPage',
         '@id': 'https://www.makemoneyonlineninja.com/'
       },
-      url: `https://www.makemoneyonlineninja.com/${this.$store.state.slug}`,
+      url: `https://www.makemoneyonlineninja.com/blog/${this.$store.state.slug}`,
       image: `https://www.makemoneyonlineninja.com${this.getRealImage}`,
       headline: `${this.$store.state.title}`,
       alternativeHeadline: `${this.$store.state.subtitle}`,
