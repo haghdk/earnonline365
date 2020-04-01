@@ -118,38 +118,27 @@
                 >
               </div>
 
-              <div id="BuilderAll" class="tool">
-                <h3>BuilderAll</h3>
+              <div
+                v-for="tool in tools"
+                :id="tool.name"
+                :key="tool.name"
+                class="tool"
+              >
+                <h3>{{ tool.name }}</h3>
 
                 <a
-                  href="https://office.builderall.com/us/franchise/share/1250849/?sd=default_ilm&tid=makemoneyonlineninja"
-                  class="special-logo"
+                  :href="tool.link"
+                  :class="tool.speciallogo ? 'special-logo' : ''"
                 >
                   <img
-                    src="@/static/logos/builderall.png"
-                    alt="BuilderAll"
+                    :src="'/logos/' + tool.logo"
+                    :alt="tool.name"
                     class="logo"
                 /></a>
 
-                <p>
-                  BuilderAll is ultimate digital marketing tool packed with apps
-                  like a website builder, funnel builder, email automation,
-                  eCommerce and a lot more.
-                </p>
+                <div class="description" v-html="tool.description"></div>
 
-                <p>
-                  A good digital marketing tool is essential to have a
-                  successful online business, like affiliate marketing, and this
-                  is where BuilderAll is the perfect tool. It have 5 different
-                  plans, including a FREE plan.<br />
-                  And you can start with a 14 day FREE trial.
-                </p>
-
-                <a
-                  href="https://office.builderall.com/us/franchise/share/1250849/?sd=default_ilm&tid=makemoneyonlineninja"
-                  class="read-more"
-                  >Start your FREE trial now</a
-                >
+                <a :href="tool.link" class="read-more">{{ tool.linkText }}</a>
               </div>
             </div>
           </div>
@@ -203,6 +192,32 @@
 
 <script>
 export default {
+  data() {
+    return {
+      tools: [
+        {
+          id: 'BuilderAll',
+          name: 'BuilderAll',
+          logo: 'builderall.png',
+          link:
+            'https://office.builderall.com/us/franchise/share/1250849/?sd=default_ilm&tid=makemoneyonlineninja',
+          linkText: 'Start your FREE trial now',
+          speciallogo: true,
+          description:
+            'BuilderAll is ultimate digital marketing tool packed with apps like a website builder, funnel builder, email automation, eCommerce and a lot more.<br /><br />A good digital marketing tool is essential to have a successful online business, like affiliate marketing, and this is where BuilderAll is the perfect tool. It have 5 different plans, including a FREE plan.<br />And you can start with a 14 day FREE trial.'
+        },
+        {
+          id: 'TubeBuddy',
+          name: 'TubeBuddy',
+          logo: 'tubebuddy.png',
+          link: 'https://www.tubebuddy.com/makemoneyonlineninja',
+          linkText: 'Install now',
+          description:
+            'TubeBuddy is a FREE Google Chrome extension with a great variety of different tools that lets you fully optimize your YouTube videos, like a Keyword Explorer, Tag recommendations, SEO Optimizer etc.<br /><br />A great feature of TubeBuddy is the Bulk services, like Bulk Upload, Bulk Thumbnails etc. which lets TubeBuddy help you upload multiple videos at once.<br /><br />With TubeBuddy you can find the best optimized video title, descriptions and tags to help get your YouTube on top of the search results.'
+        }
+      ]
+    }
+  },
   head() {
     return {
       title: `Tools ← ${this.$siteConfig.siteName}`,

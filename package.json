@@ -54,6 +54,7 @@
     "vue": "^2.6.11",
     "vue-cookie-law": "^1.12.0",
     "vue-disqus": "^3.0.5",
+    "vue-nl2br": "^0.1.2",
     "vue-server-renderer": "^2.6.11",
     "vue-simple-addthis-share": "^0.1.4",
     "vue-social-sharing": "^2.4.7"
