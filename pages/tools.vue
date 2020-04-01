@@ -17,107 +17,6 @@
             <p>In this section you can find some of the tools I recommend.</p>
 
             <div id="toolsList">
-              <div id="getResponse" class="tool">
-                <h3>GetResponse</h3>
-
-                <a
-                  href="https://affiliates.getresponse.com/material/hit/210/pEkMFNHHwP"
-                >
-                  <img
-                    src="@/static/logos/getresponse.svg"
-                    alt="Responsive Landing Page Templates"
-                    class="logo"
-                /></a>
-
-                <p>
-                  One of the most important parts of building an online business
-                  is to collect emails. <br />With emails you will be able to
-                  promote services or products to a large group of people
-                  interested in your specific niche.<br />
-                  The best tool to do this in my opinion is GetResponse. With
-                  GetResponse you can build email lists, create squeeze pages,
-                  setup autoresponders or setup a full automated email flow.
-
-                  <br /><br />
-                  GetResponse has a bunch of options to get you started on your
-                  online business.
-
-                  <a
-                    href="https://www.getresponse.com/?a=pEkMFNHHwP&c=makemoneyonlineninjatools"
-                    class="read-more"
-                    >Claim your 30 day free trial</a
-                  >
-                </p>
-              </div>
-
-              <div id="Udimi" class="tool">
-                <h3>Udimi</h3>
-
-                <a href="https://udimi.com/a/4wx8q">
-                  <img
-                    src="@/static/logos/udimi.png"
-                    alt="Udimi Solo Ads"
-                    class="logo"
-                /></a>
-
-                <p>
-                  There are two main types of traffic you can get to your
-                  affiliate links. Free traffic and paid traffic. The most
-                  effective type of free traffic are SEO, but it can be a time
-                  consuming task to search engine optimize your blog where you
-                  have your affiliate links. One much faster method is paid
-                  traffic. Paid traffic can be pay-per-click like Microsoft Ads
-                  or Google Ads, but it can also be solo ads.<br />
-                  Solo ads are niche specific email campaign where you can send
-                  your affiliate link to a group of people interested in your
-                  niche.
-                </p>
-
-                <p>
-                  I will recommend you to use Udimi as your solo ads provider.
-                  Umidi us highly trusted and secure. When buying solo ads on
-                  Udimi your seller will not get paid until he/she has delivered
-                  your order. So if the seller for example only delivers 50% of
-                  the order, your will get a 50% refund.
-                </p>
-
-                <a href="https://udimi.com/a/4wx8q" class="read-more"
-                  >Buy your first solo ads today</a
-                >
-              </div>
-
-              <div id="Postearly" class="tool">
-                <h3>Postearly</h3>
-
-                <a href="https://postearly.com/a/68238">
-                  <img
-                    src="@/static/logos/postearly.svg"
-                    alt="Postearly"
-                    class="logo"
-                /></a>
-
-                <p>
-                  One of the best ways to get free traffic is by using
-                  Instagram. An account with regular posts and stories will
-                  eventually build up a large amount of followers that could
-                  potentially be buyers of one of the products you are
-                  promoting.
-                </p>
-
-                <p>
-                  By using Postearly you can fully automate this process. You
-                  can set up scheduled posting, automatic following, automatic
-                  direct messaging and a lot more. And you can have multiple
-                  instagram accounts connected to your Postearly account and
-                  manage them in on place. Set up your a bunch of posts,
-                  schedule them and make Postearly manage them for you.
-                </p>
-
-                <a href="https://postearly.com/a/68238" class="read-more"
-                  >Start using PostEarly now</a
-                >
-              </div>
-
               <div
                 v-for="tool in tools"
                 :id="tool.name"
@@ -195,6 +94,34 @@ export default {
   data() {
     return {
       tools: [
+        {
+          id: 'GetResponse',
+          name: 'GetResponse',
+          logo: 'getresponse.svg',
+          link:
+            'https://affiliates.getresponse.com/material/hit/210/pEkMFNHHwP',
+          linkText: 'Claim your 30 day free trial',
+          description:
+            'One of the most important parts of building an online business is to collect emails. <br />With emails you will be able to promote services or products to a large group of people interested in your specific niche.<br />The best tool to do this in my opinion is GetResponse. With GetResponse you can build email lists, create squeeze pages, setup autoresponders or setup a full automated email flow.<br /><br />GetResponse has a bunch of options to get you started on your online business.'
+        },
+        {
+          id: 'Udimi',
+          name: 'Udimi',
+          logo: 'udimi.png',
+          link: 'https://udimi.com/a/4wx8q',
+          linkText: 'Buy your first solo ads today',
+          description:
+            'There are two main types of traffic you can get to your affiliate links. Free traffic and paid traffic. The most effective type of free traffic are SEO, but it can be a time consuming task to search engine optimize your blog where you have your affiliate links. One much faster method is paid traffic. Paid traffic can be pay-per-click like Microsoft Ads or Google Ads, but it can also be solo ads.<br />Solo ads are niche specific email campaign where you can send your affiliate link to a group of people interested in your niche.<br /><br > I will recommend you to use Udimi as your solo ads provider. Umidi us highly trusted and secure. When buying solo ads on Udimi your seller will not get paid until he/she has delivered your order. So if the seller for example only delivers 50% of the order, your will get a 50% refund.'
+        },
+        {
+          id: 'PostEarly',
+          name: 'PostEarly',
+          logo: 'postearly.svg',
+          link: 'https://postearly.com/a/68238',
+          linkText: 'Start using PostEarly now',
+          description:
+            'One of the best ways to get free traffic is by using Instagram. An account with regular posts and stories will eventually build up a large amount of followers that could potentially be buyers of one of the products you are promoting.<br /><br />By using Postearly you can fully automate this process. You can set up scheduled posting, automatic following, automatic direct messaging and a lot more. And you can have multiple instagram accounts connected to your Postearly account and manage them in on place. Set up your a bunch of posts, schedule them and make Postearly manage them for you.'
+        },
         {
           id: 'BuilderAll',
           name: 'BuilderAll',
