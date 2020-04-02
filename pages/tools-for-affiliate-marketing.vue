@@ -182,7 +182,7 @@ export default {
         {
           hid: 'og:title',
           name: 'og:title',
-          content: `Tools ← ${this.$siteConfig.siteName}`
+          content: `Tools for affiliate marketing ← ${this.$siteConfig.siteName}`
         },
         {
           hid: 'og:image',
