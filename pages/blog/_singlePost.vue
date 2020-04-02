@@ -143,6 +143,7 @@ export default {
   }
 }
 </script>
+
 <style scoped lang="scss">
 .header-time {
   margin-bottom: 1.25rem;
@@ -156,10 +157,6 @@ export default {
   margin-top: 2.5rem;
 }
 
-.addthis_inline_share_toolbox {
-  margin: 0 0 1.25rem 0;
-}
-
 .teaser {
   margin-bottom: 1.25rem;
   font-weight: 700;
@@ -170,5 +167,9 @@ export default {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
   }
+}
+
+.addthis_inline_share_toolbox {
+  margin: 0 0 1.25rem 0;
 }
 </style>

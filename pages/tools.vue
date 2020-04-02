@@ -9,6 +9,16 @@
       <template v-slot:default>
         <div class="column is-8 is-offset-2">
           <div class="content">
+            <AddThis
+              public-id="5e4bbba630202b41"
+              :data-url="`https://www.makemoneyonlineninja.com/tools/`"
+              :data-title="title"
+              :data-description="teaser"
+              :data-media="
+                `https://www.makemoneyonlineninja.com/uploads/how-to-make-money-online.jpg`
+              "
+            />
+
             <p>
               Getting started with affiliate marketing can be scary at first.
               How do I start, where do I start? Want tools do I need?
@@ -98,10 +108,18 @@
   max-width: 300px;
   margin: 1.25rem 0 0;
 }
+.addthis_inline_share_toolbox {
+  margin: 0 0 1.25rem 0;
+}
 </style>
 
 <script>
+import AddThis from 'vue-simple-addthis-share'
+
 export default {
+  components: {
+    AddThis
+  },
   data() {
     return {
       tools: [
@@ -166,6 +184,12 @@ export default {
           content: `Tools ← ${this.$siteConfig.siteName}`
         },
         {
+          hid: 'og:image',
+          property: 'og:image',
+          content:
+            'https://www.makemoneyonlineninja.com/uploads/how-to-make-money-online.jpg'
+        },
+        {
           hid: 'description',
           name: 'description',
           content:
@@ -179,7 +203,6 @@ export default {
         }
       ]
     }
-  },
-  components: {}
+  }
 }
 </script>
