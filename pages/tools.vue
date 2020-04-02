@@ -1,7 +1,7 @@
 <template>
   <div id="tools" class="page-wrapper tools-page content-page">
     <site-hero
-      title="Tools & Resources"
+      title="Tools"
       image="/uploads/how-to-make-money-online.jpg"
     ></site-hero>
 
@@ -10,11 +10,22 @@
         <div class="column is-8 is-offset-2">
           <div class="content">
             <p>
-              To get the most success with affiliate marketing many different
-              tools can be used, from email lists to tracking tools.
+              Getting started with affiliate marketing can be scary at first.
+              How do I start, where do I start? Want tools do I need?
             </p>
 
-            <p>In this section you can find some of the tools I recommend.</p>
+            <p>
+              To help you become successful in affiliate marketing, there are a
+              bunch of different tools you can use. Email marketing tools, SEO
+              optimizer tools, video tools etc.
+            </p>
+
+            <p>
+              These tools will help you in every part of your affiliate
+              marketing business, from setting up email campaigns, build
+              websites and landing pages, search engine optimize your blog,
+              optimize your YouTube videos to get more views etc.
+            </p>
 
             <div id="toolsList">
               <div
