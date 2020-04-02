@@ -1,7 +1,7 @@
 <template>
   <div id="tools" class="page-wrapper tools-page content-page">
     <site-hero
-      title="Tools"
+      title="Tools for affiliate marketing"
       image="/uploads/how-to-make-money-online.jpg"
     ></site-hero>
 
@@ -19,9 +19,10 @@
               "
             />
 
+            <h2>How do I start? What tools do I need?</h2>
             <p>
               Getting started with affiliate marketing can be scary at first.
-              How do I start, where do I start? Want tools do I need?
+              How do I start, where do I start? What tools do I need?
             </p>
 
             <p>

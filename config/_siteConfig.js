@@ -32,7 +32,7 @@ export default {
     },
     {
       name: 'Tools',
-      link: '/tools/'
+      link: '/tools-for-affiliate-marketing/'
     },
     {
       name: 'About',

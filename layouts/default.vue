@@ -22,6 +22,7 @@ export default {
   transition: 'slide-fade',
   head() {
     return {
+      htmlAttrs: { lang: 'en' },
       title: `${this.$store.state.title} | ${this.$siteConfig.siteName}`,
       meta: [
         {
