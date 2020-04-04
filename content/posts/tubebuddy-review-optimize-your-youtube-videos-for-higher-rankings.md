@@ -49,18 +49,21 @@ The legend plan at $49 a month, or $39.20 a month for a yearly subscription, giv
 
 ## TubeBuddy features
 
-This section contains some of TubeBuddy really useful features.
+This section contains some of TubeBuddy really useful features.  
 
 ### Productivity:
 
+\
 **Bulk Processing**
 
 This feature automates processes that can take a long time, like Copy Cards for the marketing of your brand, Copy End Screen to branding other videos, playlists or channels, Deleting Cards and Deleting End Screens
 
+\
 **Emoji Picker**
 
 One way to make your video stand out from the others and make it capture the eyes of a potential viewer is by using emojis. TubeBuddy’s emoji Picker, located at the right in the title field, makes it easy to pick an emoji icon relevant for your video title.
 
+\
 **Comment filter**
 
 As your YouTube channel becomes larger you will get more and more comments on your videos. Keeping up with them all can be a challenge. With TubeBuddy’s comment filter you can select which comments you want to see. You can filter many different types of comments. To name a few:
@@ -73,27 +76,32 @@ As your YouTube channel becomes larger you will get more and more comments on yo
 
 The comment filter will save you a great amount of time when engaging with your audience.
 
+\
 **Thumbnail generator**
 
 Creating cool thumbnails that will make a viewer click on your video can be time-consuming and expensive if you need a Photoshop license just to create thumbnails. With TubeBuddy’s thumbnail generator you can save templates that you can re-use to give your videos clean a consistent look.
 
+\
 **Upload checklist**
 
 With TubeBuddy’s upload checklist you get a list of important steps to remember when uploading new videos. You can then check off each step in the list as you complete the task.
 
+\
 **Video Topic Planner**
 
 Coming up with the ideas for your next video can be troublesome. With TubeBuddy’s Video Topic Planner you can save suggestions from your viewers when they comment on your videos.
 
+\
 **Canned Responses**
 
 Rewriting the same response over and over isn’t the best use of your time and resources. Utilizing TubeBuddy’s Canned Responses you can use pre-written messages to publish answers and comments quickly. You can even use some form of personalization with shortcodes to address a user by their first name.
 
+\
 **Best time to publish**
 
 Publishing a video instantly might not be the ideal if you want to achieve the best possible engagement. This feature utilizes TubeBuddy’s algorithm to find the best time to publish your video.
 
-TubeBuddy’s Productivity features will help you save a great amount of time when working with many video uploads.
+TubeBuddy’s Productivity features will help you save a great amount of time when working with many video uploads.   
 
 ### Video optimization:
 
@@ -127,14 +135,17 @@ The video optimization features are fantastic in helping you writing the best-op
 
 Getting to know what’s working and what’s not is extremely valuable when trying to optimize your videos. TubeBuddy’s Health Report watches your video's retention and traffic and gives you an overview of your videos overall performance.
 
+\
 **Social Monitor**
 
 See on which social platforms your videos are sharing and talked about. This gives an idea of how popular your videos are.
 
+\
 **Brand Alerts**
 
 Get notified when someone uploads a new video, creates a playlist or channel matching your brand. This is an awesome feature that gives you an idea of how popular your brand or name is.
 
+\
 **Retention Analyzer**
 
 This feature allows you to see how your videos across your YouTube channel are performing. Identify what makes your viewers leave and work to improve your overall retention rate.
