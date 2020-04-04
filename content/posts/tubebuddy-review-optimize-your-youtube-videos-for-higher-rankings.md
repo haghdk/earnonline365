@@ -21,29 +21,24 @@ If you are working with YouTube videos you probably also know how hard it is to 
 
 But there’s help to find with TubeBuddy. In the article I will try to review the tool for you and hopefully, you find it useful enough to give it a try. 
 
-**[Try TubeBuddy for free](https://www.tubebuddy.com/makemoneyonlineninja/website)**
+**[Try TubeBuddy for free](https://www.tubebuddy.com/makemoneyonlineninja/website)**  
 
-## \
-What is TubeBuddy?
+## What is TubeBuddy?
 
-In short, TubeBuddy is a tool that will help you to manage and scale your YouTube channel. It contains a variety of different features that will help you SEO your YouTube videos. The best part is that all these great features will be available from inside the YouTube dashboard. So every handling of your YouTube channel will be located in one familiar place.
-
+In short, TubeBuddy is a tool that will help you to manage and scale your YouTube channel. It contains a variety of different features that will help you SEO your YouTube videos. The best part is that all these great features will be available from inside the YouTube dashboard. So every handling of your YouTube channel will be located in one familiar place.  
 
 
 ## How does it work?
 
 TubeBuddy is basically just an extension you install onto your browser. It works for both Google Chrome and Firefox. The extension will display as an extra menu inside your YouTube account which makes it easy to access. 
 
-## \
-How much does it cost?
+## How much does it cost?
 
-### \
-Free plan
+### Free plan
 
 TubeBuddy has a free plan if you want to check it out at first. The free plan, of course, has some limitations. You will not be able to use the bulk features and the tag recommendations will be limited. The free plan is great if you just want to get started and check the tool out to see how it can help you.
 
-### \
-Paid plans
+### Paid plans
 
 ![TubeBuddy Pricing](/uploads/tubebuddy-pricing.jpg "TubeBuddy Pricing")
 
@@ -53,16 +48,13 @@ The Star Plan at $19 a month, or $15.20 a month for a yearly subscription, gives
 \
 The legend plan at $49 a month, or $39.20 a month for a yearly subscription, gives you access to the whole shebang.
 
-## \
-TubeBuddy features
+## TubeBuddy features
 
-This section contains some of TubeBuddy really useful features.
+This section contains some of TubeBuddy really useful features.$\~$$\~$
 
-### \
-Productivity:
+### Productivity:
 
-#### \
-Bulk Processing
+#### Bulk Processing
 
 This feature automates processes that can take a long time, like Copy Cards for the marketing of your brand, Copy End Screen to branding other videos, playlists or channels, Deleting Cards and Deleting End Screens
 
@@ -145,8 +137,6 @@ See on which social platforms your videos are sharing and talked about. This giv
 #### Brand Alerts
 
 Get notified when someone uploads a new video, creates a playlist or channel matching your brand. This is an awesome feature that gives you an idea of how popular your brand or name is.
-
-
 
 #### Retention Analyzer
 
