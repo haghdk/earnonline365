@@ -111,16 +111,19 @@ The Keyword Explorer is a fantastic tool to help you find the best keywords for 
 
 ![TubeBuddy Keyword Explorer](/uploads/tubebuddy-keyword-explorer.jpg "TubeBuddy Keyword Explorer")
 
+\
 **Search Rankings**
 
 With the Search Ranking feature, you can see how your videos rank on specific tags. This feature will help you identify certain tags that your video aren’t ranking for and can, therefore, be removed. The historical chart will show you how your video ranks day by day.
 
+\
 **SEO Studio**
 
 Optimizing a video’s title and description for the best position in the search result can be a difficult task. With TubeBuddy’s SEO Studio this work becomes a lot easier. Setting a specific keyword SEO Studio will score your optimization based on that keyword. 
 
 ![TubeBuddy SEO Studio](/uploads/tubebuddy-seostudio.jpg "TubeBuddy SEO Studio")
 
+\
 **Suggested Tags**
 
 By just typing in the keyword you want to rank for this feature allows you to find the best possible tags to make your videos get maximum exposure. This is key to optimizing your videos for a higher rank in YouTube’s search results. Suggested Tags saves you a lot of time instead of you trying to find all the tags yourself.  Best Practice Audit
@@ -129,6 +132,7 @@ This feature helps you to ensure that you’re following YouTube’s recommendat
 
 The video optimization features are fantastic in helping you writing the best-optimized titles and descriptions and selecting the best tags based on your specified keywords.
 
+\
 ### Data & Research
 
 **Health Report**
@@ -155,7 +159,6 @@ Data & Research will help you identify specific problems with your videos and fu
 \
 Optimizing YouTube videos for maximum exposure and retention rates is a very time-consuming task and if you are an active YouTuber or want to be one this can amount to many frustrating hours.  TubeBuddy can ease you with a lot of the common tasks of uploading, writing titles and descriptions, creating thumbnails, etc. Using these great features can help you increase your rankings, your views, and your overall YouTube popularity.
 
-\
 \
 **Is it safe to use TubeBuddy?** 
 
