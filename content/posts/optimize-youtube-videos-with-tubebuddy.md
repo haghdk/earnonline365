@@ -1,5 +1,5 @@
 ---
-title: 'TubeBuddy review: Optimize your YouTube videos'
+title: 'Optimize YouTube videos with TubeBuddy'
 subtitle: How to optimize your YouTube videos for maximum exposure
 category:
   - Affiliate marketing
