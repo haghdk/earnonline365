@@ -132,7 +132,7 @@ This feature helps you to ensure that you’re following YouTube’s recommendat
 
 The video optimization features are fantastic in helping you writing the best-optimized titles and descriptions and selecting the best tags based on your specified keywords.
 
-\
+
 ### Data & Research
 
 **Health Report**
@@ -157,11 +157,11 @@ This feature allows you to see how your videos across your YouTube channel are p
 Data & Research will help you identify specific problems with your videos and further optimize them for better results, for example increasing retention rates or higher search rankings.
 
 \
-Optimizing YouTube videos for maximum exposure and retention rates is a very time-consuming task and if you are an active YouTuber or want to be one this can amount to many frustrating hours.  TubeBuddy can ease you with a lot of the common tasks of uploading, writing titles and descriptions, creating thumbnails, etc. Using these great features can help you increase your rankings, your views, and your overall YouTube popularity.
-
-\
 **Is it safe to use TubeBuddy?** 
 
 Yes, it is completely safe. TubeBuddy is “YouTube Certified” meaning that is has gone through a formal process by Google. 
+
+\
+Optimizing YouTube videos for maximum exposure and retention rates is a very time-consuming task and if you are an active YouTuber or want to be one this can amount to many frustrating hours.  TubeBuddy can ease you with a lot of the common tasks of uploading, writing titles and descriptions, creating thumbnails, etc. Using these great features can help you increase your rankings, your views, and your overall YouTube popularity.
 
 **[Try TubeBuddy for free](https://www.tubebuddy.com/makemoneyonlineninja/website)**
