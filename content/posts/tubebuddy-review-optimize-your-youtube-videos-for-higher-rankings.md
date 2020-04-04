@@ -1,5 +1,5 @@
 ---
-title: 'TubeBuddy review: Optimize your YouTube videos for higher rankings'
+title: 'TubeBuddy review: Optimize your YouTube videos'
 subtitle: How to optimize your YouTube videos for maximum exposure
 category:
   - Affiliate marketing
@@ -27,7 +27,6 @@ But there’s help to find with TubeBuddy. In the article I will try to review t
 
 In short, TubeBuddy is a tool that will help you to manage and scale your YouTube channel. It contains a variety of different features that will help you SEO your YouTube videos. The best part is that all these great features will be available from inside the YouTube dashboard. So every handling of your YouTube channel will be located in one familiar place.  
 
-
 ## How does it work?
 
 TubeBuddy is basically just an extension you install onto your browser. It works for both Google Chrome and Firefox. The extension will display as an extra menu inside your YouTube account which makes it easy to access. 
@@ -50,15 +49,15 @@ The legend plan at $49 a month, or $39.20 a month for a yearly subscription, giv
 
 ## TubeBuddy features
 
-This section contains some of TubeBuddy really useful features.$\~$$\~$
+This section contains some of TubeBuddy really useful features.
 
 ### Productivity:
 
-#### Bulk Processing
+**Bulk Processing**
 
 This feature automates processes that can take a long time, like Copy Cards for the marketing of your brand, Copy End Screen to branding other videos, playlists or channels, Deleting Cards and Deleting End Screens
 
-#### Emoji Picker
+moji Picker
 
 One way to make your video stand out from the others and make it capture the eyes of a potential viewer is by using emojis. TubeBuddy’s emoji Picker, located at the right in the title field, makes it easy to pick an emoji icon relevant for your video title.
 
