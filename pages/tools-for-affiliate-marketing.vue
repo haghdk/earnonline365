@@ -177,7 +177,7 @@ export default {
   },
   head() {
     return {
-      title: `Tools ← ${this.$siteConfig.siteName}`,
+      title: `Tools for affiliate marketing ← ${this.$siteConfig.siteName}`,
       meta: [
         {
           hid: 'og:title',
