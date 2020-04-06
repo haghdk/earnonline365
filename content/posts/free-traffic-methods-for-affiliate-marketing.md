@@ -11,8 +11,8 @@ teaser: >-
   When you look at it, it is really simple - to make a sale in affiliate
   marketing, you need to send customers to your offers. 
 metadescription: >-
-  Free traffic is the best way to drive free traffic to your affiliate offers
-  and earn commissions
+  Free traffic is the best way to drive traffic to your affiliate marketing
+  offers.
 metaogimage: /uploads/google-search-engine.jpg
 ---
 As you may already know there are two main traffic methods to get customers to your affiliate offers. Paid traffic and free traffic. Paid traffic is a great option if you want to get visitors fast, but it can also be really expensive really fast without any guarantee that the customers will buy your offer.
