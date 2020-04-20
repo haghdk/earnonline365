@@ -41,7 +41,7 @@
     "ncp": "^2.0.0",
     "netlify-cms": "^2.9.5",
     "netlify-cms-widget-youtube-expanded": "^0.3.2",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.12.2",
     "nuxt-buefy": "^0.3.2",
     "nuxt-cookie-control": "^1.7.7",
     "nuxt-fontawesome": "^0.4.0",

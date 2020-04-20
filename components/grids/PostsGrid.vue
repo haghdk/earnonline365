@@ -9,7 +9,7 @@
         :title="item.title"
         :subtitle="item.subtitle"
         :teaser="item.teaser"
-        :link="`/blog/${item.slug}/`"
+        :link="item.slug ? `/blog/${item.slug}` : ''"
         :image="item.featureImage"
         :author="item.author"
         :date="item.date"
