@@ -12,8 +12,7 @@ teaser: When starting on affiliate marketing, using the right tools is paramount
   this post, I will list 4 of the best affiliate marketing tools, in my opinion,
   that you can use to improve your affiliate marketing business.
 metadescription: When starting on affiliate marketing, using the right tools is
-  paramount to be successful. There are many different affiliate marketing tools
-  that can help you to get a successful start, from link trackers to email
+  paramount to be successful. There are many different affiliate marketing tools that can help you to get a successful start.
   marketing.
 metaogimage: /uploads/tools.jpg
 ---
