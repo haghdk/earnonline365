@@ -172,4 +172,8 @@ export default {
 .addthis_inline_share_toolbox {
   margin: 0 0 1.25rem 0;
 }
+
+.content img {
+  margin: 1.25rem auto;
+}
 </style>

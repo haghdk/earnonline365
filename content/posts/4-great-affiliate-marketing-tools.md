@@ -1,5 +1,5 @@
 ---
-title: 4 GREAT AFFILIATE MARKETING TOOLS
+title: 4 great affilaite marketing tools
 subtitle: 4 of the best affiliate marketing tools I use
 category:
   - Affiliate marketing
@@ -25,7 +25,6 @@ Builderall is an all-in-one marketing platform with a wide variety of tools you 
 * A drag-and-drop landing page and sales page builder, Cheetah Website Builder, that makes it fast and easy to create stunning landing pages to collect emails for your email marketing.
 * A professional website bot, you can use to create automatic engagement on your sales pages. This is known to increase conversion by a significant amount.
 * With Animated VSL Video Builder, you can build animated videos to promote your business, affiliate products, etc.
-
 
 
 ![Builderall Website Builder](/uploads/builderall.png "Builderall Website Builder")
@@ -58,10 +57,11 @@ ClickMagick offers an extremely powerful tool that enables you to have the right
 
 **[Sign up for a 14-day FREE trial](https://www.clickmagick.com/go/makemoneyonlineninja/homepage/blog)**
 
-## [](https://www.clickmagick.com/go/makemoneyonlineninja/homepage/blog)4. TubeBuddy
+## 4. TubeBuddy
 
 YouTube is a very powerful platform for any affiliate marketer to promote affiliate offers. But being able to get people to watch your videos can be a real challenge as you compete with a lot of other affiliate marketers. As YouTube is not just a video-sharing platform but also the second largest search engine, optimizing video titles and descriptions is extremely important to get on top of the search results to get as many views and subscribers as possible.
 
+One tool for optimizing YouTube videos is TubeBuddy. It's a simple Chrome Extension you install and that will make the tools avaiable from within your YouTube dashboard and buy that way you can use TubeBuddy from one place when you setup your YouTube vidoes.
 With TubeBuddy you get a bunch of really useful tools that make it a lot easier to optimize your videos. Some of the tools provided by TubeBuddy:
 
 * A keyword explorer to find the best keywords to target scored by search volume, competition, and optimization strength by your competitors.
@@ -71,6 +71,8 @@ With TubeBuddy you get a bunch of really useful tools that make it a lot easier 
 ![TubeBuddy Keyword Explorer](/uploads/tubebuddy-keyword-explorer.jpg "TubeBuddy Keyword Explorer")
 
 **[You can read about TubeBuddy in more detail here](https://www.makemoneyonlineninja.com/blog/optimize-youtube-videos-with-tubebuddy/)**
+
+**[Start using TubeBuddy here](https://www.tubebuddy.com/makemoneyonlineninja/makemoneyonlineninjatoolslist)**
 
 ## Conclusion
 
