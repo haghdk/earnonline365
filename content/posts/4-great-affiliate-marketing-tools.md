@@ -1,5 +1,5 @@
 ---
-title: 4 great affilaite marketing tools
+title: 4 great affiliate marketing tools
 subtitle: 4 of the best affiliate marketing tools I use
 category:
   - Affiliate marketing
