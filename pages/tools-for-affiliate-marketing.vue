@@ -171,6 +171,15 @@ export default {
           linkText: 'Install now',
           description:
             'TubeBuddy is a FREE Google Chrome extension with a great variety of different tools that lets you fully optimize your YouTube videos, like a Keyword Explorer, Tag recommendations, SEO Optimizer etc.<br /><br />A great feature of TubeBuddy is the Bulk services, like Bulk Upload, Bulk Thumbnails etc. which lets TubeBuddy help you upload multiple videos at once.<br /><br />With TubeBuddy you can find the best optimized video title, descriptions and tags to help get your YouTube on top of the search results.'
+        },
+        {
+          id: 'CrowdFire',
+          name: 'Crowdfire',
+          logo: 'crowdfire-logo.png',
+          link: 'https://crowdfire.grsm.io/makemoneyonlineninja2090',
+          linkText: 'Try now',
+          description:
+            'Crowdfire is a social media management platform used by brands, businesses, agencies, and individuals all over the world to help drive social media engagement and growth. We have packed in features ranging from content publishing to content curation to customer service to engagement, all in one place at a competitive price. Crowdfire is simple to understand, helps you save tons of time, has a host of features in a single place and is the perfect tool to grow and manage your social accounts.'
         }
       ]
     }
