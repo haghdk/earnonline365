@@ -1,6 +1,6 @@
 ---
-title: Tracking Your Affiliate Links For Success
-subtitle: Tracking Your Affiliate Links
+title: Best Link Tracker Tools
+subtitle: Track your affiliate links
 category:
   - Affiliate marketing
 author: Morten Jensen

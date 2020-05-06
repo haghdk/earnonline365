@@ -176,4 +176,8 @@ export default {
 .content img {
   margin: 1.25rem auto;
 }
+
+.content a {
+  font-weight: bold;
+}
 </style>
