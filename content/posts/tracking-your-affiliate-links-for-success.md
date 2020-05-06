@@ -90,7 +90,7 @@ Voluum has 4 different plans with the cheapest one at $69 /mo.
 
 In terms of features, Voluum is one the most advanced links trackers available and if you are serious in growing your affiliate business it’s worth checking out.
 
-[You can check it out here](https://panel.voluum.com/link/?t=DEW83wlZYLFG/gStexo9YeHfh3WD26U4OpC898zShHo9+7SJFLrp+5aJEaNp/Pd8)
+**[Check out Voluum here](https://panel.voluum.com/link/?t=DEW83wlZYLFG/gStexo9YeHfh3WD26U4OpC898zShHo9+7SJFLrp+5aJEaNp/Pd8)**
 
 ### 2. ClickMagick
 
@@ -169,7 +169,7 @@ It’s only because Voluum is more advanced that ClickMagick is placed second on
 
 I like the simpler platform ClickMagick is and that combined with the many features I highly recommend you to give it a try.
 
-[Try out ClickMagick now](https://clickmagick.com/go/makemoneyonlineninja)
+**[Try out ClickMagick now](https://clickmagick.com/go/makemoneyonlineninja)**
 
 ### LinkTrackr
 
@@ -231,7 +231,7 @@ LinkTrackr offers 4 different plans
 
 With fewer features than Voluum and ClickMagick this tool is placed third on this list, but that doesn’t make it less worth checking out.
 
-You can [try it out](https://www.linktrackr.com/) with a 30-day money-back guarantee.
+You can **[try it out](https://www.linktrackr.com/)** with a 30-day money-back guarantee.
 
 ### Bit.ly
 
@@ -293,7 +293,7 @@ Bit.ly has three different pricing plans
 
 While the other link tracker tools on the list have better plans than bit.ly in terms of affiliate link tracking, the free plan can be useful if you have just started on affiliate marketing and wants to get basic tracking and an understanding of how your affiliate links perform on the different platforms you are promoting on.
 
-[Try bit.ly now](https://bitly.com/)
+**[Try bit.ly now](https://bitly.com/)**
 
 ## Conclusion
 
