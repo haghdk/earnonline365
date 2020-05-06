@@ -102,29 +102,29 @@ As an example, you will be able to easily track your entire sales funnels and op
 
 **Some of the other unique features you’ll get with ClickMagick are:**
 
-* Cross-Device Tracking
+* **Cross-Device Tracking**
 
 As people constantly switches between devices, it makes it almost impossible to track their activity with many other tracking platforms.
 
 ClickMagick offers true cross-device tracking, making it possible for you to easily track and optimize your campaigns across different devices.
 
-* Automated & Intelligent Split Testing
+* **Automated & Intelligent Split Testing**
 
 Do correct split testing with ClickMagick’s algorithms that will alert you when you have a statistically valid winner, and automatically redirect your visitors to the winning variation.
 
-* Advanced retargeting
+* **Advanced retargeting**
 
 Increase exposure to all your affiliate offers and boots your sales by following your visitors every on the web.
 
 Add retargeting pixels, from any retargeting network to any of your affiliate links.
 
-* Automatic “Bot” filtering
+* **Automatic “Bot” filtering**
 
 Bots, whether they are harmless search engine spiders or malicious scripts by scammers, can mess up your stats and analytics.
 
 ClickMagick’s automatic bot filtering allows you to filter or block bot click, ensuring accurate stats to analyze.
 
-* GEO and mobile tracking
+* **GEO and mobile tracking**
 
 With ClickMagicks’s GEO and mobile tracking you can Dynamically send visitors to different landing pages based on their GEO location and you can automatically send mobile clicks to different landing page versions than desktop clicks.
 
@@ -179,19 +179,19 @@ LinkTrackr is a great tool that makes it easy to set up tracking on your affilia
 
 **Some other features LinkTrackr offers** 
 
-* Link Cloaking
+* **Link Cloaking**
 
 Cloak your affiliate links. This will make users more likely to click on your links.
 
-* Ad Tracking
+* **Ad Tracking**
 
 Create marketing campaigns and tracks ads from banners, emails, blog posts, and more. You can add ad costs to get reports on ROI.
 
-* Conversion Tracking
+* **Conversion Tracking**
 
 Track sales and leads on your entire funnels and multiple domains.
 
-* PPC Tracking
+* **PPC Tracking**
 
 Track you Google Ads and Facebook Ads campaigns. See which keywords generate leads and which ads you might want to optimize.
 
@@ -241,19 +241,19 @@ No Link tracker list without the most famous one, bit.ly. While mostly known as 
 
 **Some of the features you will get with bit.ly**
 
-* Link Management
+* **Link Management**
 
 Create and manage your affiliate tracking links with deep insights such as geographic data and referring channels.
 
-* Branded Links
+* **Branded Links**
 
 Replace the bit.ly version of your tracking link with your own custom domain.
 
-* Mobile Links
+* **Mobile Links**
 
 Redirect mobile users to your own device-specific landing pages.
 
-* Campaign Management & Analytics
+* **Campaign Management & Analytics**
 
 Get valuable insight into how your tracking links are performing and optimize accordingly to the reporting.
 
