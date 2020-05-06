@@ -51,7 +51,7 @@ A key feature of Voluum is that it works with any traffic source. You can easily
 
 Voluum also supports all advertising formats which will help you to track your affiliate ad campaigns in various forms like Native Ads, Email campaigns, Push Ads, Display Banners, Social, or Videos ads.
 
-**Pricing**
+**Voluum pricing plans**
 
 Voluum has 4 different plans with the cheapest one at $69 /mo.
 
@@ -130,7 +130,7 @@ With ClickMagicks’s GEO and mobile tracking you can Dynamically send visitors 
 
 These are just some of the many features ClickMagick provides. An in-depth review would be required to describe all the other features, some of which are Bulletproof Link Cloaking, Custom Tracking Domains, and Click-Fraud monitoring.
 
-**Pricing:**
+**ClickMagick pricing plans:**
 
 ClickMagick offer 3 plans
 
@@ -195,7 +195,7 @@ Track sales and leads on your entire funnels and multiple domains.
 
 Track you Google Ads and Facebook Ads campaigns. See which keywords generate leads and which ads you might want to optimize.
 
-**Pricing**
+**LinkTrackr pricing plans:**
 
 LinkTrackr offers 4 different plans
 
@@ -257,7 +257,7 @@ Redirect mobile users to your own device-specific landing pages.
 
 Get valuable insight into how your tracking links are performing and optimize accordingly to the reporting.
 
-**Pricing**
+**Bit.ly pricing plans**
 
 Bit.ly has three different pricing plans
 
