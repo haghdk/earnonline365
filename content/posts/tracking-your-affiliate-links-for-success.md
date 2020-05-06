@@ -6,25 +6,18 @@ category:
 author: Morten Jensen
 date: 2020-05-06T13:15:24.165Z
 featureImage: /uploads/tracking-affiliate-links.jpg
-teaser: >-
-  When you do affiliate marketing, you have a lot of affiliate links you are
-  trying to promote. Many affiliate marketing beginners, including myself, make
-  the common mistake to just put all the links in a cannon and then shoot them
-  everywhere in hopes of hittiing something. That’s a bad idea for many reasons.
-  One of them is that you would lose a lot of potential future buyers because
-  you have no chance to promote the offer to them again at a later point when
-  they might be more willing to buy. This is why you always use a landing page
-  to get people to signup to your email list before sending them to your
-  affiliate offer.
-
-  Another one, and at least equal, if not more, important, is that you have you no idea what’s working and what’s not and therefore have no knowledge of where to optimize your campaign to get more leads and sales.
-
-
-  That’s where link tracking comes into play. With the correct link tracking setup, you will be able to see how your different affiliate campaigns are performing and adjust and optimize those that aren’t performing well and you should be able to see an increase in leads and sales.
+teaser: "When you do affiliate marketing, you have a lot of affiliate links you
+  are trying to promote. Many affiliate marketing beginners, including myself,
+  make the common mistake to just put all the links in a cannon and then shoot
+  them everywhere in hopes of hitting something. "
 metadescription: With the proper link tracking, you will have all the data you
   need to analyze how all of your affiliate marketing campaigns are performing.
 metaogimage: /uploads/tracking-affiliate-links.jpg
 ---
+That’s a bad idea for many reasons. One of them is that you would lose a lot of potential future buyers because you have no chance to promote the offer to them again at a later point when they might be more willing to buy. This is why you always use a landing page to get people to signup to your email list before sending them to your affiliate offer. Another one, and at least equal, if not more, important, is that you have you no idea what’s working and what’s not and therefore have no knowledge of where to optimize your campaign to get more leads and sales.
+
+That’s where link tracking comes into play. With the correct link tracking setup, you will be able to see how your different affiliate campaigns are performing and adjust and optimize those that aren’t performing well and you should be able to see an increase in leads and sales.
+
 ## What is link tracking?
 
 Link tracking is the tracking of clicks you will get on links on a various channels such as a website, a Facebook posts, a banner or an email. In affiliate affiliate marketing this type of tracking is especially useful when you run multiple campaigns. That way you will be able to track your campaigns and through reporting find out which campaigns work and which need adjustments and optimization. Link tracking can vary from a simple counting of clicks to in-depth analysis of conversion rates and CPC. This is information is particularly useful when calculating a return on investment.
@@ -299,6 +292,8 @@ Bit.ly has three different pricing plans
 * Device-Type Tracking
 
 While the other link tracker tools on the list have better plans than bit.ly in terms of affiliate link tracking, the free plan can be useful if you have just started on affiliate marketing and wants to get basic tracking and an understanding of how your affiliate links perform on the different platforms you are promoting on.
+
+[Try bit.ly now](https://bitly.com/)
 
 ## Conclusion
 
