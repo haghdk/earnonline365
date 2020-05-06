@@ -171,7 +171,7 @@ I like the simpler platform ClickMagick is and that combined with the many featu
 
 **[Try out ClickMagick now](https://clickmagick.com/go/makemoneyonlineninja)**
 
-### LinkTrackr
+### 3. LinkTrackr
 
 ![LinkTrackr](/uploads/linktrckr.jpg "LinkTrackr")
 
@@ -233,7 +233,7 @@ With fewer features than Voluum and ClickMagick this tool is placed third on thi
 
 You can **[try it out](https://www.linktrackr.com/)** with a 30-day money-back guarantee.
 
-### Bit.ly
+### 4. Bit.ly
 
 ![Bitly](/uploads/bitly.jpg "Bitly")
 
