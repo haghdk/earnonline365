@@ -169,7 +169,7 @@ It’s only because Voluum is more advanced that ClickMagick is placed second on
 
 I like the simpler platform ClickMagick is and that combined with the many features I highly recommend you to give it a try.
 
-**[Try out ClickMagick now](https://clickmagick.com/go/makemoneyonlineninja)**
+**[Try out ClickMagick now](https://clickmagick.com/go/makemoneyonlineninja/blog/)**
 
 ### 3. LinkTrackr
 
