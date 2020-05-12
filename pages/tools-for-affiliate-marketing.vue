@@ -50,6 +50,7 @@
                 <a
                   :href="tool.link"
                   :class="tool.speciallogo ? 'special-logo' : ''"
+                  target="_blank"
                 >
                   <img
                     :src="'/logos/' + tool.logo"
@@ -59,7 +60,9 @@
 
                 <div class="description" v-html="tool.description"></div>
 
-                <a :href="tool.link" class="read-more">{{ tool.linkText }}</a>
+                <a :href="tool.link" class="read-more" target="_blank">{{
+                  tool.linkText
+                }}</a>
               </div>
             </div>
           </div>
