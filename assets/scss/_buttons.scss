@@ -1,0 +1,14 @@
+.button {
+
+    &.button-external {
+        background-color: #df2626;
+        color: #ffffff;
+        border: none;
+
+        &:hover {
+            background-color: #df2626;
+            color: #ffffff;
+        }
+    }
+
+}

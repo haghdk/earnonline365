@@ -140,6 +140,22 @@ export default {
   },
   fetch({ store, params }) {
     setPageData(store, { resource: 'post', slug: params.singlePost })
+  },
+  mounted() {
+    this.setBlankLinks()
+  },
+  methods: {
+    setBlankLinks() {
+      const links = document.querySelectorAll('.content a')
+
+      for (let i = 0, linksLength = links.length; i < linksLength; i++) {
+        if (links[i].hostname !== window.location.hostname) {
+          links[i].target = '_blank'
+          links[i].classList.add('button')
+          links[i].classList.add('button-external')
+        }
+      }
+    }
   }
 }
 </script>

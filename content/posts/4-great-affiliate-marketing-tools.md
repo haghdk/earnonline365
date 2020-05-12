@@ -42,7 +42,7 @@ Some of the tools GetResponse offers:
 
 ![GetResponse Landing Page Builder](/uploads/getresponse.png "GetResponse Landing Page Builder")
 
-**[Sign up for a 30-day FREE trial](https://www.getresponse.com/?a=pEkMFNHHwP&c=makemoneyonlineninjatoolslist)**[](https://www.getresponse.com/?a=pEkMFNHHwP&c=makemoneyonlineninjatoolslist)
+**[Sign up for a 30-day FREE trial](https://www.getresponse.com/?a=pEkMFNHHwP&c=makemoneyonlineninjatoolslist)**
 
 ## 3. ClickMagick
 
@@ -67,9 +67,9 @@ With TubeBuddy you get a bunch of really useful tools that make it a lot easier 
 
 ![TubeBuddy Keyword Explorer](/uploads/tubebuddy-keyword-explorer.jpg "TubeBuddy Keyword Explorer")
 
-**[You can read about TubeBuddy in more detail here](https://www.makemoneyonlineninja.com/blog/optimize-youtube-videos-with-tubebuddy/)**
+**[Read more about TubeBuddy](https://www.makemoneyonlineninja.com/blog/optimize-youtube-videos-with-tubebuddy/)**
 
-**[Start using TubeBuddy here](https://www.tubebuddy.com/makemoneyonlineninja/makemoneyonlineninjatoolslist)**
+**[Start using TubeBuddy](https://www.tubebuddy.com/makemoneyonlineninja/makemoneyonlineninjatoolslist)**
 
 ## Conclusion
 

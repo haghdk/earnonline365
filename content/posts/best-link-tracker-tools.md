@@ -233,13 +233,13 @@ With fewer features than Voluum and ClickMagick this tool is placed third on thi
 
 You can **[try it out](https://www.linktrackr.com/)** with a 30-day money-back guarantee.
 
-### 4. Bit.ly
+### 4. Bitly
 
 ![Bitly](/uploads/bitly.jpg "Bitly")
 
-No Link tracker list without the most famous one, bit.ly. While mostly known as a link shortener, bit.ly also offers link tracking that gives you valuable data about your affiliate links and on which platforms visitors are clicking on your links.
+No Link tracker list without the most famous one, bitly. While mostly known as a link shortener, bitly also offers link tracking that gives you valuable data about your affiliate links and on which platforms visitors are clicking on your links.
 
-**Some of the features you will get with bit.ly**
+**Some of the features you will get with bitly**
 
 * **Link Management**
 
@@ -247,7 +247,7 @@ Create and manage your affiliate tracking links with deep insights such as geogr
 
 * **Branded Links**
 
-Replace the bit.ly version of your tracking link with your own custom domain.
+Replace the bitly version of your tracking link with your own custom domain.
 
 * **Mobile Links**
 
@@ -257,9 +257,9 @@ Redirect mobile users to your own device-specific landing pages.
 
 Get valuable insight into how your tracking links are performing and optimize accordingly to the reporting.
 
-**Bit.ly pricing plans**
+**Bitly pricing plans**
 
-Bit.ly has three different pricing plans
+Bitly has three different pricing plans
 
 **Free - $0/month**
 
@@ -279,7 +279,7 @@ Bit.ly has three different pricing plans
 * Link Tags
 * Link Filtering
 
-**Customized - You need to get in touch with bit.ly for a price**
+**Customized - You need to get in touch with bitly for a price**
 
 * 3,000+ Branded Links per month
 * Unlimited Branded Link Redirects
@@ -291,9 +291,9 @@ Bit.ly has three different pricing plans
 * UTM Builder
 * Device-Type Tracking
 
-While the other link tracker tools on the list have better plans than bit.ly in terms of affiliate link tracking, the free plan can be useful if you have just started on affiliate marketing and wants to get basic tracking and an understanding of how your affiliate links perform on the different platforms you are promoting on.
+While the other link tracker tools on the list have better plans than bitly in terms of affiliate link tracking, the free plan can be useful if you have just started on affiliate marketing and wants to get basic tracking and an understanding of how your affiliate links perform on the different platforms you are promoting on.
 
-**[Try bit.ly now](https://bitly.com/)**
+**[Try bitly now](https://bitly.com/)**
 
 ## Conclusion
 
