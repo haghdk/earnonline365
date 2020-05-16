@@ -6,14 +6,14 @@ category:
 author: Morten Jensen
 date: 2020-05-11T12:43:45.935Z
 featureImage: /uploads/five-awesome-wordpress-themes.jpg
-teaser:  In this post I will list the 5 best Wordpress themes for blogs, to help you get started on your own blog.
+teaser:  Wordpress is one of the easiest platforms to use to start a blog. It offers thousands of ready-made designs, known as themes or templates that can be installed with a just few clicks inside the Wordpress administration without any required coding knowledge.
 metadescription: Wordpress offers thousands of ready-made designs, known as
   themes that can be installed with a just few clicks.
 metaogimage: /uploads/five-awesome-wordpress-themes.jpg
 ---
-Wordpress is one of the easiest platforms to use to start a blog. It offers thousands of ready-made designs, known as themes or templates that can be installed with a just few clicks inside the Wordpress administration without any required coding knowledge. 
-
 This makes the platform perfect for bloggers and beginners who just want a blog quickly with no technical obstacles. 
+
+In this post I will list the 5 best Wordpress themes for blogs, to help you get started on your own blog.
 
 There are many Wordpress blog themes, but there are also many themes that are made for photography websites, art websites, or portfolios. Wordpress themes can be found in many varieties and some are free and some are premium versions. 
 
