@@ -25,4 +25,4 @@ You will get an automation tool that works like an autoresponder but you can set
 
 The best part is that you will get a 30-day FREE trial.\
 \
-You can create your account GetResponse [HERE](https://www.getresponse.com/?a=pEkMFNHHwP)
+**[Create your GetResponse account here](https://www.getresponse.com/?a=pEkMFNHHwP)**
