@@ -7,8 +7,7 @@ author: Morten Jensen
 date: 2020-05-11T12:43:45.935Z
 featureImage: /uploads/five-awesome-wordpress-themes.jpg
 teaser:  Wordpress is one of the easiest platforms to use to start a blog. It offers thousands of ready-made designs, known as themes or templates that can be installed with a just few clicks inside the Wordpress administration without any required coding knowledge.
-metadescription: Wordpress offers thousands of ready-made designs, known as
-  themes that can be installed with a just few clicks.
+metadescription: Finding the best Wordpress theme can be a challenge. List list of the 5 best Wordpress themes for blogs will help you
 metaogimage: /uploads/five-awesome-wordpress-themes.jpg
 ---
 This makes the platform perfect for bloggers and beginners who just want a blog quickly with no technical obstacles. 
