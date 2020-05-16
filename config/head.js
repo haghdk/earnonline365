@@ -10,6 +10,11 @@ export default {
       hid: 'description',
       name: 'description',
       content: process.env.npm_package_description || ''
+    },
+    {
+      hid: 'og:type',
+      name: 'og:type',
+      content: 'website'
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicons/favicon.ico' }],
