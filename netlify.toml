@@ -40,8 +40,15 @@
   status = 301
   force = false  
 
-  [[redirects]]
+[[redirects]]
   from = "/tools/"
   to = "/tools-for-affiliate-marketing/"
   status = 301
   force = false  
+
+[[redirects]]
+  from = "/blog/5-awesome-wordpress-themes-for-your-blog"
+  to = "/blog/the-5-best-wordpress-themes-for-blogs"
+  status = 301
+  force = false 
+
