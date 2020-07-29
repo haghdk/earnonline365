@@ -5,50 +5,6 @@
   NODE_VERSION = "11"
 
 [[redirects]]
-  from = "/contact"
-  to = "/"
+  from = "/*"
+  to = "https://www.bestonlineincometools.com"
   status = 301
-  force = false
-
-[[redirects]]
-  from = "/how-to-start-on-affiliate-marketing/"
-  to = "/blog/how-to-start-on-affiliate-marketing/"
-  status = 301
-  force = false
-  
-[[redirects]]
-  from = "/my-first-affiliate-commission/"
-  to = "/blog/my-first-affiliate-commission/"
-  status = 301
-  force = false  
-
-[[redirects]]
-  from = "/building-an-email-list/"
-  to = "/blog/building-an-email-list/"
-  status = 301
-  force = false  
-
-[[redirects]]
-  from = "/work-at-home-secrets-and-scams/"
-  to = "/blog/work-at-home-secrets-and-scams/"
-  status = 301
-  force = false  
-  
-[[redirects]]
-  from = "/the-money-is-in-the-list/"
-  to = "/blog/the-money-is-in-the-list/"
-  status = 301
-  force = false  
-
-[[redirects]]
-  from = "/tools/"
-  to = "/tools-for-affiliate-marketing/"
-  status = 301
-  force = false  
-
-[[redirects]]
-  from = "/blog/5-awesome-wordpress-themes-for-your-blog"
-  to = "/blog/the-5-best-wordpress-themes-for-blogs"
-  status = 301
-  force = false 
-
