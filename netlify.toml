@@ -8,3 +8,4 @@
   from = "/*"
   to = "https://www.bestonlineincometools.com"
   status = 301
+  force = true
